@@ -1,0 +1,16 @@
+
+#API Key for quandl.com API
+quandl_api_key=naYkqVsmrfQQCZes6EfT
+
+
+###Command to connect to postgres database
+#conn = psycopg2.connect(host="localhost",database="suppliers", user="postgres", password="postgres")
+
+
+pip install quandl unicodedata 
+pip install xlsxwriter
+pip install sklearn matplotlib
+pip install scipy
+pip install SVM
+
+
