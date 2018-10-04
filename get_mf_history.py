@@ -32,3 +32,19 @@ while (i_mf_cnt!=100):
 	fun_url_process(i_mf_cnt,1,start_dt,end_dt)
 	time.sleep(20)
 
+###### Below code in progress. It would help to process the file
+i_linenum=1
+f_filename='9_1.txt'
+f=open(f_filename,'r')
+#f.read()
+t_title_list=[]
+fin_list=[]
+for line in f.read().splitlines():
+	t_list= line.split(';')
+	fin_list.append(t_list)
+
+df=pd.DataFrame(fin_list,columns=fin_list[0])
+t_fund_list=[]
+t_fund_list.append(df_uniq[df_uniq[0].str.contains('Mutual Fund')])
+t_fund_list
+df = df[~df['Scheme Code'].isnull()] 
