@@ -14,13 +14,13 @@ import os
 def echo_msg(t_str):
 		print(datetime.datetime.now().strftime("%Y%m%d %H%M%S")+'::: '+t_str)
 
-def fun_url_process(i_mf_cnt,i_tp_cnt,start_dt,end_dt,a_filealias,p_filepath):
+def fun_url_process(i_mf_cnt,i_tp_cnt,start_dt,end_dt,a_filealias):
 	url='http://portal.amfiindia.com/DownloadNAVHistoryReport_Po.aspx?mf='+str(i_mf_cnt)+'&tp='+str(i_tp_cnt)+'&frmdt='+start_dt+'&todt='+end_dt
 	echo_msg('Inside the loop'+str(i_mf_cnt)+str(i_tp_cnt))
 	echo_msg('URL:::'+url)
 	r = requests.get(url, allow_redirects=True)
 	echo_msg(datetime.datetime.now().strftime("%Y%m%d %H%M%S")+'::: After request call')
-	f_filename=p_filepath+str(i_mf_cnt)+'_'+str(i_tp_cnt)+a_filealias
+	f_filename=str(i_mf_cnt)+'_'+str(i_tp_cnt)+a_filealias
 	if (r.content.find('Scheme Code') == 0):
 		echo_msg('Inside if statement')
 		open(f_filename, 'wb').write(r.content)
@@ -78,19 +78,23 @@ start_dt = (datetime.datetime.now() - datetime.timedelta(days=365.2425 * 10)).st
 end_dt = datetime.datetime.now().strftime("%d-%b-%Y")
 a_filealias = "_"+datetime.datetime.now().strftime("%Y%m%d")+'mflst.txt'
 p_filepath='/Users/piyushbijwal/Documents/Project/stock_analysis/MyScripts/DataSet/'
+p_curr_path=os.getcwd()
+os.chdir(p_filepath)
 
 i_mf_cnt=1
 while (i_mf_cnt!=2):
 	i_mf_cnt=i_mf_cnt+1
 #	echo_msg('Calling Open Fund Function'+str(i_mf_cnt))
 ##Open fund
-	fun_url_process(i_mf_cnt,1,start_dt,end_dt,a_filealias,p_filepath)
+	fun_url_process(i_mf_cnt,1,start_dt,end_dt,a_filealias)
 	time.sleep(20)
 
+echo_msg('Dataset creation completed')
 ###### Below code in progress. It would help to process the file
-os.chdir(p_filepath)
+echo_msg('File processing activity started')
 for f_filename in glob.glob('*'+a_filealias):
     echo_msg(f_filename)
     fun_process_file(f_filename)
 
+os.chdir(p_curr_path)
 
