@@ -16,13 +16,16 @@ def echo_msg(t_str):
 
 def fun_url_process(i_mf_cnt,i_tp_cnt,start_dt,end_dt,a_filealias):
 	url='http://portal.amfiindia.com/DownloadNAVHistoryReport_Po.aspx?mf='+str(i_mf_cnt)+'&tp='+str(i_tp_cnt)+'&frmdt='+start_dt+'&todt='+end_dt
-	echo_msg('Inside the loop'+str(i_mf_cnt)+str(i_tp_cnt))
+	f_filename=str(i_mf_cnt)+'_'+str(i_tp_cnt)+a_filealias
+	echo_msg('Inside the function'+str(i_mf_cnt)+str(i_tp_cnt))
 	echo_msg('URL:::'+url)
+	if os.path.isfile(f_filename):
+		echo_msg('File already exists: '+f_filename)
+		return
 	r = requests.get(url, allow_redirects=True)
 	echo_msg(datetime.datetime.now().strftime("%Y%m%d %H%M%S")+'::: After request call')
-	f_filename=str(i_mf_cnt)+'_'+str(i_tp_cnt)+a_filealias
 	if (r.content.find('Scheme Code') == 0):
-		echo_msg('Inside if statement')
+		echo_msg('Inside Scheme Code validation statement')
 		open(f_filename, 'wb').write(r.content)
 
 def fun_conndb(df_4db,i_tab_nme, i_action):
@@ -46,10 +49,10 @@ def fun_process_file(f_file):
 #	echo_msg('End of for loop')
 	df = pd.DataFrame(l_fin_list,columns=l_title_list)
 #Start: Logic to extract fund house name
-	df = df.loc[df.SchemeCode.str.isdigit()]
 	t_lst=pd.DataFrame(df['SchemeCode'].unique().tolist())
 	t_mf_house=t_lst[t_lst[0].str.contains('Mutual Fund')].iloc[0][0]
 	df['FundHouse']=t_mf_house
+	df = df.loc[df.SchemeCode.str.isdigit()]
 	fun_conndb(df,'t_mf_txn','I')
 	echo_msg(f_file+'-'+t_mf_house)
 #End: Logic to extract fund house name
@@ -82,7 +85,7 @@ p_curr_path=os.getcwd()
 os.chdir(p_filepath)
 
 i_mf_cnt=1
-while (i_mf_cnt!=2):
+while (i_mf_cnt!=3):
 	i_mf_cnt=i_mf_cnt+1
 #	echo_msg('Calling Open Fund Function'+str(i_mf_cnt))
 ##Open fund
@@ -90,6 +93,7 @@ while (i_mf_cnt!=2):
 	time.sleep(20)
 
 echo_msg('Dataset creation completed')
+echo_msg('-----------------------------------------------------')
 ###### Below code in progress. It would help to process the file
 echo_msg('File processing activity started')
 for f_filename in glob.glob('*'+a_filealias):
