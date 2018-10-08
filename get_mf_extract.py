@@ -64,11 +64,15 @@ while (i_mf_cnt!=3):
 	l_fin_list.append(f_filename)
 
 df_mf_fresh_data=pd.DataFrame(l_fin_list,columns=["filename"])
+df_mf_fresh_data['download_status']=''
+df_mf_fresh_data['date_loaded']=''
 
 #np.where(df_avail_data['filename']!=df_mf_fresh_data['filename'])
 if df_avail_data.empty:
 	for index, row in df_mf_fresh_data.iterrows():
+		lg.echo_msg('Calling for file '+row['filename'])
 		try:
+			i_mf_cnt=row['filename'][:1]
 			fun_mf_extract(i_mf_cnt,i_tp_cnt,start_dt,end_dt,row['filename'])
 			time.sleep(20)
 		except:
