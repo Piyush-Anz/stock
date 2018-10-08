@@ -10,6 +10,15 @@ import glob
 import pandas as pd
 from sqlalchemy import create_engine as ce
 import os
+import psycopg2
+
+def postgres_test():
+    try:
+        conn = psycopg2.connect("dbname='piyushbijwal' user='piyushbijwal' host='localhost' password=os.getenv('logpwd') connect_timeout=1 ")
+        conn.close()
+        return True
+    except:
+        return False
 
 def echo_msg(t_str):
 		print(datetime.datetime.now().strftime("%Y%m%d %H%M%S")+'::: '+t_str)
@@ -29,7 +38,7 @@ def fun_url_process(i_mf_cnt,i_tp_cnt,start_dt,end_dt,a_filealias):
 		open(f_filename, 'wb').write(r.content)
 
 def fun_conndb(df_4db,i_tab_nme, i_action):
-	dbengine = ce('postgresql://piyushbijwal:"9!En087654321"@localhost:5432/piyushbijwal')
+	dbengine = ce('postgresql://piyushbijwal:os.getenv("logpwd")@localhost:5432/piyushbijwal')
 	if i_action == 'I':
 		df_4db.head(0).to_sql(i_tab_nme, con=dbengine,if_exists='append')
 		df_4db.to_sql(i_tab_nme, con=dbengine,if_exists='append')
@@ -102,3 +111,4 @@ for f_filename in glob.glob('*'+a_filealias):
 
 os.chdir(p_curr_path)
 
+echo_msg('-----------------------------------------------------')
