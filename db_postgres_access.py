@@ -26,32 +26,43 @@ def postgres_conn():
     	lg.echo_msg('DB Connection test unsuccessfull')
         return False
 
-def fun_execreq(df_4db,i_tab_nme, i_action):
-	### Make the below string as an environment variable
-	conn=postgres_conn()
-	if i_action == 'IDF':
-		lg.echo_msg('Inside the function fun_conndb component IDF')
+def fun_insert(df_4db,i_tab_nme):
+	try:
+		conn=postgres_conn()
+		dbengine = ce('postgresql://piyushbijwal:os.getenv("logpwd")@localhost:5432/piyushbijwal')
+		print 'dbengine executed'
+		df_4db.head(0).to_sql(i_tab_nme, con=dbengine,if_exists='append')
+		print 'head(0) executed'
+		df_4db.to_sql(i_tab_nme, con=dbengine,if_exists='append', index=False)
+		print 'data insert executed'
+		conn.close()
+		return True
+	except:
+		lg.echo_msg('Error in function fun_conndb component IDF')
+		return False
+
+def fun_query(df_4db):
 		try:
-			dbengine = ce('postgresql://piyushbijwal:os.getenv("logpwd")@localhost:5432/piyushbijwal')
-			df_4db.head(0).to_sql(i_tab_nme, con=dbengine,if_exists='append')
-			df_4db.to_sql(i_tab_nme, con=dbengine,if_exists='append')
-			conn.close()
-			return True
-		except:
-			lg.echo_msg('Error in function fun_conndb component IDF')
-			return False
-	if i_action == 'Q':
-		lg.echo_msg('Inside the function fun_conndb component Q')
-		try:
-			cur = conn.cursor()
+			conn=postgres_conn()
+			cur=conn.cursor()
 			cur.execute(df_4db)
+			colnames = [desc[0] for desc in cur.description]
 			fetch_rec = cur.fetchall()
-			df= pd.DataFrame(list(fetch_rec))
+			df= pd.DataFrame(list(fetch_rec),columns=colnames)
 			return df
 		except:
 			lg.echo_msg('Error in function fun_conndb component Q')
 			return False
 
+def fun_execreq(df_4db,i_tab_nme, i_action):
+	### Make the below string as an environment variable
+	if i_action == 'IDF':
+		lg.echo_msg('Inside the function fun_conndb component IDF')
+		fun_insert(df_4db,i_tab_nme)
+	if i_action == 'Q':
+		lg.echo_msg('Inside the function fun_conndb component Q')
+		df=fun_query(df_4db)
+		return df
 
 
 

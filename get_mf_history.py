@@ -37,6 +37,8 @@ def fun_url_process(i_mf_cnt,i_tp_cnt,start_dt,end_dt,a_filealias):
 		echo_msg('Inside Scheme Code validation statement')
 		open(f_filename, 'wb').write(r.content)
 
+# url='https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=NAB.AX&apikey=220YSYTZLTKHFPQQ&datatype=csv'
+
 def fun_conndb(df_4db,i_tab_nme, i_action):
 	dbengine = ce('postgresql://piyushbijwal:os.getenv("logpwd")@localhost:5432/piyushbijwal')
 	if i_action == 'I':

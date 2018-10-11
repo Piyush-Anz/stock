@@ -27,3 +27,29 @@ CREATE TABLE t_mf_sch_type (
     SchemeCode   varchar(100) NOT NULL
 );
 
+
+CREATE SEQUENCE seq_t_stock_alphavantage START 1;
+
+CREATE TABLE stg_stock_alphavantage (
+    recordid integer PRIMARY KEY DEFAULT nextval('seq_t_stock_alphavantage'),
+	timestamp DATE,
+	open numeric,
+	high numeric,
+	low numeric,
+	close numeric,
+	volume numeric,
+	Stock  varchar(10),
+	Exchange varchar(10)
+);
+
+
+CREATE TABLE t_top10_200ASX_IdxWt (
+	Exchange varchar(10),
+	Stock  varchar(10),
+	Stock_Name varchar(100),
+	Sector varchar(100),
+	created_dt DATE default CURRENT_DATE
+);
+
+
+
