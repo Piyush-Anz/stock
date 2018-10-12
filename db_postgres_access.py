@@ -18,7 +18,8 @@ import logprint as lg
 
 def postgres_conn():
     try:
-        conn = psycopg2.connect("dbname='piyushbijwal' user='piyushbijwal' host='localhost' password=os.getenv('logpwd') connect_timeout=1 ")
+    	t_str='dbname='+os.getenv("db_dbname")+' user='+os.getenv("db_user")+' host='+os.getenv("db_host")+' password='+os.getenv("logpwd")+' connect_timeout=1 '
+    	conn = psycopg2.connect(t_str)
         lg.echo_msg('DB Connection test successfull')
 #        conn.close()
         return conn
@@ -29,7 +30,8 @@ def postgres_conn():
 def fun_insert(df_4db,i_tab_nme):
 	try:
 		conn=postgres_conn()
-		dbengine = ce('postgresql://piyushbijwal:os.getenv("logpwd")@localhost:5432/piyushbijwal')
+		t_str='postgresql://'+os.getenv("db_user")+':'+os.getenv("logpwd")+'@'+os.getenv("db_host")+':'+os.getenv("db_port")+'/'+os.getenv("db_user")
+		dbengine = ce(t_str)
 		print 'dbengine executed'
 		df_4db.head(0).to_sql(i_tab_nme, con=dbengine,if_exists='append')
 		print 'head(0) executed'

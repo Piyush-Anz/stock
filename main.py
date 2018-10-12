@@ -37,6 +37,18 @@ def fun_200asx_stock():
 		time.sleep(15)
 
 
-fun_200asx_stock()
+def fun_all_stock():
+	lg.echo_msg("Inside the function fun_all_asx_stock")
+	t_str_qry="select Exchange,Stock_Name,Stock,Sector from t_all_ASX_stock"
+	lg.echo_msg("Calling function db.fun_execreq to execute Query:: "+t_str_qry)
+	df=db.fun_execreq(t_str_qry,'', 'Q')
+	lg.echo_msg(df)
+	for t_stock_ex in df['stock']+"."+df['exchange']:
+		fun_insert_stg(t_stock_ex)
+		time.sleep(15)
+
+
+fun_all_stock()
+#fun_200asx_stock()
 
 

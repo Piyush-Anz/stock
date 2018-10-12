@@ -1,0 +1,2270 @@
+Exchange,Stock,Stock_Name,Sector,Market_Cap,Weight_per
+ASX,14D,1414 Degrees Limited,Industrials,46942600,0.002
+ASX,1ST,1ST Group Limited,Health Care,6827180,0
+ASX,3PL,3P Learning Limited,Consumer Discretionary,175561000,0.008
+ASX,4DS,4DS Memory Limited,Information Technology,59524700,0.003
+ASX,5GN,5G Networks Limited,Telecommunication Services,16092300,0.001
+ASX,88E,88 Energy Limited,Energy,116995000,0.005
+ASX,8CO,8COMMON Limited,Information Technology,5854460,0
+ASX,8IH,8I Holdings Limited Chess Depositary Interests 1:1,Financials,47260400,0.002
+ASX,8EC,8IP Emerg Co Limited,,34865400,0.002
+ASX,9SP,9 Spokes Int Limited,Information Technology,9905420,0
+ASX,ACB,A-Cap Resources,Energy,50569300,0.002
+ASX,ABP,Abacus Property Group Units/ Stapled Securities,Real Estate,1977100000,0.093
+ASX,ABL,Abilene Oil & Gas,Energy,795229,0
+ASX,AEG,Absolute Equity Perf,,123036000,0.006
+ASX,ABT,Abundant Produce Limited,Consumer Staples,9883350,0
+ASX,ACS,Accent Resources NL,Materials,1448000,0
+ASX,ACQ,Acorn Cap INV Fund,,66152800,0.003
+ASX,ACF,Acrow Formwork,Industrials,94747100,0.004
+ASX,ACR,ACRUX Limited,Health Care,36634800,0.002
+ASX,ACW,Actinogen Medical,Health Care,55599900,0.003
+ASX,AIV,Activex Limited,Materials,31901100,0.001
+ASX,ADA,Adacel Technologies,Information Technology,135175000,0.006
+ASX,ADH,Adairs Limited,Consumer Discretionary,431274000,0.02
+ASX,1AD,Adalta Limited,Health Care,31453300,0.001
+ASX,ADD,Adavale Resource Limited,Energy,804430,0
+ASX,AAU,Adcorp Australia,Consumer Discretionary,1638270,0
+ASX,ABC,Adelaide Brighton,Materials,4020770000,0.188
+ASX,ADR,Adherium Limited,Health Care,14116200,0.001
+ASX,AHZ,Admedus Limited,Health Care,47640000,0.002
+ASX,ADY,Admiralty Resources,Materials,17311700,0.001
+ASX,ADT,Adriatic Metals Chess Depositary Interests 1:1,Materials,39135600,0.002
+ASX,ADJ,Adslot Limited,Information Technology,67116300,0.003
+ASX,ABV,ADV Braking Tech Limited,Consumer Discretionary,5930990,0
+ASX,ADX,ADX Energy Limited,Energy,13595700,0.001
+ASX,AER,Aeeris Limited,Information Technology,2946260,0
+ASX,AEI,Aeris Environmental,Industrials,25271300,0.001
+ASX,AIS,Aeris Resources Limited,Materials,56046500,0.003
+ASX,AEB,Affinity Energy,Energy,11176500,0.001
+ASX,AFR,African Energy Res Chess Depositary Interests 1:1,Energy,14413800,0.001
+ASX,AFT,AFT Corporation,Industrials,9020530,0
+ASX,AFP,Aft Pharmaceuticals Foreign Exempt NZX,Health Care,194616000,0.009
+ASX,AGL,AGL Energy Limited,Utilities,12788600000,0.599
+ASX,AGJ,Agricultural Land Ordinary Units FP,Real Estate,4387950,0
+ASX,AGR,Aguia Res Limited,Materials,20380000,0.001
+ASX,AHL,Ahalife Holdings Limited,Consumer Discretionary,10757800,0.001
+ASX,A1C,Aic Resources,Materials,10212800,0
+ASX,AGI,Ainsworth Game Tech,Consumer Discretionary,402341000,0.019
+ASX,ACL,Alchemia Limited,Health Care,2597790,0
+ASX,AHQ,Allegiance Coal Limited,Materials,28050200,0.001
+ASX,AGS,Alliance Resources,Materials,11472300,0.001
+ASX,AGE,Alligator Energy,Energy,2951530,0
+ASX,AIQ,Alternative Invest Ordinary Units FP,,11178400,0.001
+ASX,1AG,Alterra Limited,Industrials,6318400,0
+ASX,AGH,Althea Group,,78373200,0.004
+ASX,ABR,American Pacific,Materials,21017600,0.001
+ASX,AHR,Anchor Resources,Materials,682959,0
+ASX,ADN,Andromeda Metals Limited,Materials,5396810,0
+ASX,AAR,Anglo Australian,Materials,25111300,0.001
+ASX,AGG,Anglogold Ashanti Cdi 5:1 Foreign Exempt Jse,Materials,210530000,0.01
+ASX,AB1,Animoca Brands Corp,Information Technology,57206400,0.003
+ASX,ADO,Anteo Diagnostics,Health Care,13833100,0.001
+ASX,AHX,Apiam Animal Health,Health Care,67004100,0.003
+ASX,AD1,Applydirect Limited,Information Technology,7780490,0
+ASX,AAD,Ardent Leisure Group Ordinary/Units FP Stapled Securities,Consumer Discretionary,856275000,0.04
+ASX,ADV,Ardiden Limited,Materials,15091900,0.001
+ASX,AGY,Argosy Minerals Limited,Materials,235492000,0.011
+ASX,AHK,Ark Mines Limited,Materials,2702120,0
+ASX,AAJ,Aruma Resources Limited,Materials,4705380,0
+ASX,AHY,Asaleo Care Limited,Consumer Staples,393764000,0.018
+ASX,AFA,Asf Group Limited,Financials,108374000,0.005
+ASX,AIR,Astivita Limited,Industrials,3499410,0
+ASX,AHN,Athena Resources,Materials,2167610,0
+ASX,AGO,Atlas Iron Limited,Materials,413616000,0.019
+ASX,AIA,Auckland Internation Foreign Exempt NZX,Industrials,8033180000,0.376
+ASX,ACP,Audalia Res Limited,Materials,5329230,0
+ASX,AD8,Audinategroupltd,Information Technology,202151000,0.009
+ASX,AEE,Aura Energy,Energy,22529500,0.001
+ASX,ABW,Aurora Absolute Ordinary Units FP,,3006840,0
+ASX,AIB,Aurora GLB Trust Ordinary Units FP,Financials,1607090,0
+ASX,A3D,Aurora Labs Limited,Industrials,59061800,0.003
+ASX,AHF,Aus Dairy Farms Stapled Securities FP,Consumer Staples,34410900,0.002
+ASX,AC8,Auscann Group HLGS Limited,Health Care,175501000,0.008
+ASX,ABX,Aust Bauxite Limited,Materials,16786200,0.001
+ASX,ACO,Aust Careers Network,Consumer Discretionary,287258000,0.013
+ASX,AFG,Aust Finance Group,Financials,321145000,0.015
+ASX,AGD,Austral Gold,Materials,37392100,0.002
+ASX,AAP,Australian Agri Limited,Consumer Staples,3961320,0
+ASX,AAC,Australian Agricult,Consumer Staples,774555000,0.036
+ASX,AEF,Australian Ethical,Financials,172623000,0.008
+ASX,AFI,Australian Foundat,,7438260000,0.348
+ASX,AGM,Australiangovernance Ordinary Units FP,,44291600,0.002
+ASX,ABA,Auswide Bank Limited,Financials,232129000,0.011
+ASX,AHG,Automotive Holdings,Consumer Discretionary,732887000,0.034
+ASX,AEV,Avenira Limited,Materials,15294500,0.001
+ASX,A200,BETAAUSTRALIA200ETF ETF Units FP,,162722000,0.008
+ASX,AAA,Betasharescashetf ETF Units FP,,1241830000,0.058
+ASX,ACDC,ETFs Batt Tech Lith ETF Units FP,,1026200,0
+ASX,4CE,Force Com Limited,Materials,15261000,0.001
+ASX,1AL,Oneall International Limited,Consumer Discretionary,125775000,0.006
+ASX,3DP,Pointerra Limited,Information Technology,18272200,0.001
+ASX,A2M,The a2 Milk Company,Consumer Staples,7508960000,0.352
+ASX,AIY,Authorised Invest,,9744660,0
+ASX,AIZ,Air New Zealand Foreign Exempt NZX,Industrials,3132740000,0.147
+ASX,AJC,Acacia Coal Limited,Energy,2024450,0
+ASX,AJD,Asia Pacific Data Stapled Securities,Real Estate,207575000,0.01
+ASX,AJJ,Asian Amer Medical,Health Care,40530300,0.002
+ASX,AJL,AJ Lucas Group,Industrials,277536000,0.013
+ASX,AJM,Altura Mining Limited,Materials,427669000,0.02
+ASX,AJQ,Armour Energy Limited,Energy,44150900,0.002
+ASX,AJX,Alexium Int Group,Materials,46634900,0.002
+ASX,AJY,Asaplus Resources Chess Depositary Interests 1:1,Materials,13600000,0.001
+ASX,AKF,Ask Funding Limited,Financials,4115790,0
+ASX,AKG,Academies Aus Group,Consumer Discretionary,53598100,0.003
+ASX,AKM,Aspire Mining Limited,Materials,62591200,0.003
+ASX,AKN,Auking Mining Limited,Materials,1865170,0
+ASX,AKP,Audio Pixels Limited,Consumer Discretionary,334823000,0.016
+ASX,AL8,Alderan Resource Limited,Materials,23337400,0.001
+ASX,ALC,Alcidion Group Limited,Health Care,37866500,0.002
+ASX,ALF,Australian Leaders,Financials,286150000,0.013
+ASX,ALI,Argo Global Limited,Financials,273124000,0.013
+ASX,ALK,Alkane Resources Limited,Materials,121463000,0.006
+ASX,ALL,Aristocrat Leisure,Consumer Discretionary,18160200000,0.851
+ASX,ALQ,Als Limited,Industrials,4384590000,0.205
+ASX,ALT,Analytica Limited,Health Care,20022100,0.001
+ASX,ALU,Altium Limited,Information Technology,3564660000,0.167
+ASX,ALX,Atlas Arteria Ordinary Stapled Securities,Industrials,4769190000,0.223
+ASX,ALY,Alchemy Resource Limited,Materials,7046710,0
+ASX,AMA,AMA Group Limited,Consumer Discretionary,585728000,0.027
+ASX,AMB,Ambition Group Limited,Industrials,7745050,0
+ASX,AMC,Amcor Limited,Materials,15843400000,0.742
+ASX,AMD,Arrow Minerals,Materials,5805270,0
+ASX,AME,Alto Metals Limited,Materials,8972560,0
+ASX,AMG,Ausmex Mining GP Limited,Materials,10881600,0.001
+ASX,AMH,Amcil Limited,Financials,247179000,0.012
+ASX,AMI,Aurelia Metals Limited,Materials,632092000,0.03
+ASX,AML,Aeon Metals Limited,Materials,219739000,0.01
+ASX,AMN,Agrimin Limited,Materials,133998000,0.006
+ASX,AMO,Ambertech Limited,Information Technology,5656040,0
+ASX,AMP,AMP Limited,Financials,9309920000,0.436
+ASX,AMT,Allegra Orthopaedics,Health Care,20907400,0.001
+ASX,ANG,Austin Engineering,Industrials,133132000,0.006
+ASX,ANL,Amani Gold Limited,Materials,11280700,0.001
+ASX,ANN,Ansell Limited,Health Care,3594440000,0.168
+ASX,ANO,Advance Nanotek Limited,Materials,52803100,0.002
+ASX,ANP,Antisense Therapeut,Health Care,6689140,0
+ASX,ANQ,Anaeco Limited,Industrials,7976900,0
+ASX,ANR,Anatara LS Limited,Health Care,24212500,0.001
+ASX,ANS,Austsino Res Group Limited,Materials,86269100,0.004
+ASX,ANW,Aus Tin Mining,Materials,45497900,0.002
+ASX,ANZ,ANZ Banking Group Limited,Financials,80978600000,3.793
+ASX,AO1,Assetowl Limited,Information Technology,1981610,0
+ASX,AOA,Ausmon Resorces,Materials,2983520,0
+ASX,AOD,Aurora DIV Income Managed Fund Units,,6332740,0
+ASX,AOF,Australian Unity Off Ordinary Units FP,Real Estate,431505000,0.02
+ASX,AOG,Aveo Group Ordinary/Units FP Stapled Securities,Real Estate,1173290000,0.055
+ASX,AOK,Austex Oil Limited,Energy,9584960,0
+ASX,AON,Apollo Minerals Limited,Materials,36960300,0.002
+ASX,AOP,Apollo Consolidated,Materials,32939500,0.002
+ASX,AOU,Auroch Minerals Limited,Materials,11356700,0.001
+ASX,AOW,American Patriot Oil,Energy,10999100,0.001
+ASX,APA,APA Group Units FP Stapled Securities,Utilities,11775300000,0.552
+ASX,APC,Aust Potash Limited,Materials,21660200,0.001
+ASX,APD,Apn Property Group,Financials,141184000,0.007
+ASX,APE,A.P. Eagers Limited,Consumer Discretionary,1511340000,0.071
+ASX,APG,Austpac Resources NL,Materials,1912370,0
+ASX,API,Australian Pharm,Health Care,849439000,0.04
+ASX,APL,Antipodes Global INV,,475926000,0.022
+ASX,APO,Apn Outdoor Group,Consumer Discretionary,1112260000,0.052
+ASX,APT,Afterpay Touch,Information Technology,4127980000,0.193
+ASX,APW,Aims Pror Sec Fund Ordinary Units FP,Real Estate,78055400,0.004
+ASX,APX,Appen Limited,Information Technology,1487100000,0.07
+ASX,APZ,Aspen Group Ordinary/Units FP Stapled Securities,Real Estate,95161600,0.004
+ASX,AQC,Auspaccoal Limited,Materials,36679600,0.002
+ASX,AQD,Ausquest Limited,Materials,12637600,0.001
+ASX,AQG,Alacer Gold Corp Chess Depositary Interests 1:1,Materials,214204000,0.01
+ASX,AQI,Alicanto Min Limited,Materials,4050210,0
+ASX,AQJ,Aus Asia Min Limited,Energy,68839,0
+ASX,AQS,AQUIS Ent Limited,Consumer Discretionary,714384,0
+ASX,AQX,Alice QUEEN Limited,Energy,7319670,0
+ASX,AQZ,Alliance Aviation,Industrials,307045000,0.014
+ASX,AR9,Archtis Limited,Information Technology,14687400,0.001
+ASX,ARA,Ariadne Australia,Industrials,133778000,0.006
+ASX,ARB,ARB Corporation,Consumer Discretionary,1520230000,0.071
+ASX,ARC,Aust Rural Cap Limited,Financials,8244780,0
+ASX,ARD,Argent Minerals,Materials,7423350,0
+ASX,ARE,Argonaut Resources,Materials,34196400,0.002
+ASX,ARF,Arena REIT Stapled Securities FP,Real Estate,639028000,0.03
+ASX,ARG,Argo Investments,,5652910000,0.265
+ASX,ARH,Australasian Resour,Materials,2445750,0
+ASX,ARI,Acn 004410833 Limited,Materials,64620500,0.003
+ASX,ARL,Ardea Resources Limited,Materials,61962700,0.003
+ASX,ARM,Aurora Minerals Limited,Materials,3037020,0
+ASX,ARN,Aldoro Resources,Materials,5295000,0
+ASX,ARO,Astro Resources NL,Materials,2657030,0
+ASX,ARQ,ARQ Group Limited,Information Technology,279657000,0.013
+ASX,ARS,Alt Resources Limited,Materials,6671490,0
+ASX,ARU,Arafura Resource Limited,Materials,45330900,0.002
+ASX,ARV,Artemis Resources,Materials,123765000,0.006
+ASX,ARX,Arc Exploration Limited,Materials,4292620,0
+ASX,AS1,Angel Seafood,Consumer Staples,13182200,0.001
+ASX,ASB,Austal Limited,Industrials,692750000,0.032
+ASX,ASG,Autosports Group Limited,Consumer Discretionary,281400000,0.013
+ASX,ASH,Ashley Services Group,Industrials,43192800,0.002
+ASX,ASIA,Beta Asiatech Tigers ETF Units FP,,1224000,0
+ASX,ASL,Ausdrill Limited,Materials,942076000,0.044
+ASX,ASN,Anson Resources Limited,Materials,39054600,0.002
+ASX,ASP,Aspermont Limited,Consumer Discretionary,20832900,0.001
+ASX,AST,Ausnet Services Limited,Utilities,5873310000,0.275
+ASX,ASW,Advanced Share Limited,Financials,29495100,0.001
+ASX,ASX,ASX Limited,Financials,12324300000,0.577
+ASX,ASY,Assemblebay Limited,,3391240,0
+ASX,ATA,Atc Alloys Limited,Materials,3522290,0
+ASX,ATC,Altech Chem Limited,Materials,83021200,0.004
+ASX,ATL,Apollo Tourism,Consumer Discretionary,258884000,0.012
+ASX,ATM,Aneka Tambang Chess Depositary Interests 1:5,Materials,1106120,0
+ASX,ATP,Atlas Pearls Limited,Consumer Discretionary,8557440,0
+ASX,ATR,Astron Corp Limited Chess Depositary Interests 1:1,Materials,24495400,0.001
+ASX,ATS,Australis Oil & Gas,Energy,420556000,0.02
+ASX,ATT,Ante Real Estate TST Units FP,Real Estate,2105740,0
+ASX,ATU,Atrum Coal Limited,Materials,32345200,0.002
+ASX,ATX,Amplia Therapeutics,Health Care,12307000,0.001
+ASX,AU1,The Agency Group Aus,Real Estate,7674100,0
+ASX,AU8,Aumake Int Limited,Consumer Discretionary,59697000,0.003
+ASX,AUB,AUB Group Limited,Financials,850435000,0.04
+ASX,AUC,Ausgold Limited,Materials,15114400,0.001
+ASX,AUDS,Beta Strong AUD Trading Managed Units FP,,2624000,0
+ASX,AUH,Austchina Holdings,Energy,7807700,0
+ASX,AUI,Australian United in,Financials,1055450000,0.049
+ASX,AUL,Austar Gold Limited,Materials,8500550,0
+ASX,AUMF,Ishares Edge Au MF ETF Units FP,,11564100,0.001
+ASX,AUP,Aurora Property Ordinary Units FP,,5140790,0
+ASX,AUQ,Alara Resources Limited,Materials,16354500,0.001
+ASX,AUR,Auris Minerals Limited,Materials,20025400,0.001
+ASX,AUST,Beta Managed Risk Au Trading Managed Fund Units FP,,21587300,0.001
+ASX,AUZ,Australian Mines Limited,Materials,114052000,0.005
+ASX,AVA,AVA Risk Group Limited,Information Technology,46440800,0.002
+ASX,AVC,Auctus Alt INV Limited,Financials,8723220,0
+ASX,AVD,Antilles Oil and Gas,Energy,3914980,0
+ASX,AVG,Aust Vintage Limited,Consumer Staples,168092000,0.008
+ASX,AVH,Avita Medical Limited,Health Care,140582000,0.007
+ASX,AVJ,Avjennings Limited,Real Estate,260652000,0.012
+ASX,AVL,Aust Vanadium Limited,Materials,84532500,0.004
+ASX,AVNDA,Aventus Group Stapled Securities Deferred Settlement,,1058170000,0.05
+ASX,AVQ,Axiom Mining Limited Chess Depositary Interests 1:1,Materials,48224300,0.002
+ASX,AVW,Avira Resources Limited,Materials,3000000,0
+ASX,AVZ,AVZ Minerals Limited,Materials,179404000,0.008
+ASX,AWC,Alumina Limited,Materials,7977170000,0.374
+ASX,AWN,Arowana Internat Limited,Industrials,37961000,0.002
+ASX,AWV,Anova Metals Limited,Materials,10695200,0.001
+ASX,AWY,Aust Whisky Holdings,Consumer Staples,57586100,0.003
+ASX,AX1,Accent Group Limited,Consumer Discretionary,882223000,0.041
+ASX,AX8,Accelerate Resources,,3251050,0
+ASX,AXE,Archer Exploration,Materials,20713200,0.001
+ASX,AXI,Axiom Properties,Real Estate,19522500,0.001
+ASX,AXL,Axsesstoday Limited,Financials,105949000,0.005
+ASX,AXP,Airxpanders Inc Cdi Forus,Health Care,197078000,0.009
+ASX,AXT,Argo Exploration,Materials,3476430,0
+ASX,AYF,Australian Enhanced Units FP,,19509200,0.001
+ASX,AYG,Axxis Technology Group,Information Technology,38938,0
+ASX,AYI,A1 Invest & Res Limited,Financials,10807300,0.001
+ASX,AYK,Amyf Four Limited,,19917900,0.001
+ASX,AYM,Australia United Min,Materials,5078130,0
+ASX,AYR,Alloy Resources,Materials,5805340,0
+ASX,AYS,Amaysim Aus Limited,Telecommunication Services,215009000,0.01
+ASX,AYZ,Amyf Five Limited,,54596200,0.003
+ASX,AZI,Alta ZINC Limited,Materials,8213790,0
+ASX,AZJ,Aurizon Holdings Limited,Industrials,8179430000,0.383
+ASX,AZM,Azumah Resources,Materials,16425200,0.001
+ASX,AZS,AZURE Minerals,Materials,22200000,0.001
+ASX,AZV,AZURE Healthcare Limited,Health Care,20944200,0.001
+ASX,AZY,Antipa Minerals Limited,Materials,28888100,0.001
+ASX,B2Y,Bounty Mining,Materials,68578300,0.003
+ASX,BAF,Blue Sky Alt Access,,185742000,0.009
+ASX,BAH,Bojun Agriculture,Consumer Staples,35238500,0.002
+ASX,BAL,Bellamy's Australia,Consumer Staples,1159760000,0.054
+ASX,BAP,Bapcor Limited,Consumer Discretionary,2146670000,0.101
+ASX,BAR,Barra Resources,Materials,21235600,0.001
+ASX,BAS,Bass Oil Limited,Energy,10424700,0
+ASX,BAT,Battery Minerals Limited,Materials,32296500,0.002
+ASX,BAU,Bauxite Resource Limited,Materials,12007700,0.001
+ASX,BBL,Brisbane Broncos,Consumer Discretionary,48039900,0.002
+ASX,BBN,Baby Bunting Group Limited,Consumer Discretionary,293535000,0.014
+ASX,BBOZ,Beta Aust STR Bear Trading Managed Fund Units FP,,94611000,0.004
+ASX,BBR,Bora Bora Resources,Materials,2418490,0
+ASX,BBUS,Beta US Strong Bear Trading Managed Fund Units FP,,63900000,0.003
+ASX,BBX,BBX Minerals Limited,Materials,63458800,0.003
+ASX,BC8,Black Cat Syndicate,Materials,6317900,0
+ASX,BCB,Bowen Coal Limited,Materials,5243960,0
+ASX,BCI,BCI Minerals Limited,Materials,51689200,0.002
+ASX,BCK,Brockman Mining Limited,Materials,293183000,0.014
+ASX,BCL,Bunji Corp Limited,Energy,1356180,0
+ASX,BCN,Beacon Minerals,Materials,39384500,0.002
+ASX,BCT,Bluechiip Limited,Information Technology,31375000,0.001
+ASX,BD1,BARD1 Life Sciences,,9115290,0
+ASX,BDA,Bod Australia,Consumer Discretionary,27429000,0.001
+ASX,BDG,Black Dragon Gold Chess Depositary Interests 1:1,Materials,4420080,0
+ASX,BDI,Blina Minerals NL,Materials,4313880,0
+ASX,BDR,Beadell Resource Limited,Materials,98741500,0.005
+ASX,BEAR,Betashares Aust BEAR ETF Units FP,,49329600,0.002
+ASX,BEE,Broo Limited,Consumer Staples,19979700,0.001
+ASX,BEL,Bentley Capital Limited,Financials,7612790,0
+ASX,BEM,Blackearth Minerals,Materials,4600190,0
+ASX,BEN,Bendigo and Adelaide,Financials,5211550000,0.244
+ASX,BFC,Beston Global Limited,Consumer Staples,76912600,0.004
+ASX,BFG,Bell Financial Group,Financials,335177000,0.016
+ASX,BGA,Bega Cheese Limited,Consumer Staples,1449260000,0.068
+ASX,BGH,Bligh Resources Limited,Materials,12008300,0.001
+ASX,BGL,Bellevue Gold Limited,Materials,92402600,0.004
+ASX,BGP,Briscoe Group Foreign Exempt NZX,,705355000,0.033
+ASX,BGR,Bronson Group Limited,Financials,259888,0
+ASX,BGS,Birimian Limited,Materials,66564800,0.003
+ASX,BGT,Bio-Gene Technology,Materials,14620800,0.001
+ASX,BHD,Benjamin Horngld Limited,,17150200,0.001
+ASX,BHL,Boyuan Holdings,Real Estate,102939000,0.005
+ASX,BHP,BHP Billiton Limited,Materials,111221000000,5.21
+ASX,BID,Bidenergy Limited,Information Technology,99991400,0.005
+ASX,BILL,Ishares Core Cash ETF Units FP,,248249000,0.012
+ASX,BIN,Bingo Industries Limited,Industrials,1828040000,0.086
+ASX,BIQ,Buildingiq Inc Cdi 1:1,Information Technology,4321230,0
+ASX,BIR,BIR Financial Limited,Financials,12842200,0.001
+ASX,BIS,Bisalloy Steel,Materials,42167900,0.002
+ASX,BIT,Biotron Limited,Health Care,20599300,0.001
+ASX,BKI,BKI Investment Limited,Financials,1113120000,0.052
+ASX,BKL,Blackmores Limited,Consumer Staples,2283410000,0.107
+ASX,BKM,BKM Management Limited,Industrials,3644070,0
+ASX,BKP,Baraka Energy Res,Energy,16170900,0.001
+ASX,BKT,Black Rock Mining,Materials,17743200,0.001
+ASX,BKW,Brickworks Limited,Materials,2617630000,0.123
+ASX,BKY,Berkeley Energia Limited,Energy,171846000,0.008
+ASX,BLA,Blue Sky Limited,Financials,122888000,0.006
+ASX,BLD,Boral Limited,Materials,8100810000,0.379
+ASX,BLG,Bluglass Limited,Information Technology,119218000,0.006
+ASX,BLK,Blackham Resources,Materials,53151800,0.002
+ASX,BLT,Benitec Biopharma,Health Care,46265300,0.002
+ASX,BLX,Beacon Lighting Group,Consumer Discretionary,330087000,0.015
+ASX,BLY,Boart Longyear,Industrials,157739000,0.007
+ASX,BLZ,BLAZE International,Energy,6425880,0
+ASX,BMG,BMG Resources Limited,Materials,3474330,0
+ASX,BMH,Baumart Holdings Limited,Industrials,34015000,0.002
+ASX,BMN,Bannerman Resources,Energy,57725100,0.003
+ASX,BMP,Buymyplace Limited,Real Estate,4725600,0
+ASX,BMT,Berkut Minerals Limited,Materials,3919070,0
+ASX,BNKS,Beta Global Banks ETF Units FP,,75340300,0.004
+ASX,BNL,Big Star Energy Limited,Energy,3641000,0
+ASX,BNO,Bionomics Limited,Health Care,241452000,0.011
+ASX,BNR,Bulletin Res Limited,Materials,8426770,0
+ASX,BOA,Boadicea Resources,Materials,5020290,0
+ASX,BOC,Bougainville Copper 1 Kina,Materials,62164700,0.003
+ASX,BOE,Boss Resources Limited,Materials,117246000,0.005
+ASX,BOL,Boom Logistics,Industrials,104471000,0.005
+ASX,BOND,SPDR Aust BOND ETF Units FP,,23523300,0.001
+ASX,BOQ,Bank of Queensland,Financials,4378380000,0.205
+ASX,BOT,Botanix Pharma Limited,Health Care,74227600,0.003
+ASX,BPG,Byte Power Group,Consumer Discretionary,27585600,0.001
+ASX,BPH,BPH Energy Limited,Health Care,966187,0
+ASX,BPL,Broken Hill Prospect,Materials,6950520,0
+ASX,BPP,Babylon Pump & Power,Industrials,7067420,0
+ASX,BPT,Beach Energy Limited,Energy,4872850000,0.228
+ASX,BRB,Breaker Res NL,Materials,46768500,0.002
+ASX,BRC,Brain Resource Limited,Health Care,22312900,0.001
+ASX,BRG,Breville Group Limited,Consumer Discretionary,1701650000,0.08
+ASX,BRI,Big RIV Indust Limited,Materials,103966000,0.005
+ASX,BRK,Brookside Energy Limited,Energy,16837200,0.001
+ASX,BRL,Bathurst Res Limited,Materials,175555000,0.008
+ASX,BRN,Brainchip Limited,Information Technology,147612000,0.007
+ASX,BRO,Broad Investments,Telecommunication Services,3957780,0
+ASX,BRU,Buru Energy,Energy,114500000,0.005
+ASX,BSA,BSA Limited,Industrials,118617000,0.006
+ASX,BSE,Base Res Limited,Materials,298807000,0.014
+ASX,BSL,Bluescope Steel Limited,Materials,9303600000,0.436
+ASX,BSM,Bass Metals Limited,Materials,61540000,0.003
+ASX,BSN,Bisan Limited,Financials,519422,0
+ASX,BSP,Black Star Petroleum,Energy,1295030,0
+ASX,BSR,Bassari Resources,Materials,44582400,0.002
+ASX,BST,Barrack ST Invest,,18867600,0.001
+ASX,BSX,Blackstone Limited,Materials,13482900,0.001
+ASX,BTC,BTC Health Limited,Financials,22801900,0.001
+ASX,BTH,Bigtincan Holdings Limited,Information Technology,58673400,0.003
+ASX,BTI,Bailador Tech INV,Financials,108223000,0.005
+ASX,BUB,Bubs Aust Limited,Consumer Staples,249902000,0.012
+ASX,BUD,Buddy Platform Limited,Information Technology,48795900,0.002
+ASX,BUG,Buderim Group Limited,Consumer Staples,28387200,0.001
+ASX,BUL,Blue Energy Limited,Energy,81131000,0.004
+ASX,BUX,Buxton Resources Limited,Materials,18290200,0.001
+ASX,BUY,Bounty Oil & Gas NL,Energy,4767000,0
+ASX,BVS,Bravura Solution Limited,Information Technology,944825000,0.044
+ASX,BWF,Blackwall Limited,Financials,63787300,0.003
+ASX,BWP,BWP Trust Ordinary Units FP,Real Estate,2145560000,0.101
+ASX,BWR,Blackwall Prop Trust Ordinary Units FP,Real Estate,96954500,0.005
+ASX,BWX,BWX Limited,Consumer Staples,446999000,0.021
+ASX,BXB,Brambles Limited,Industrials,17364800000,0.813
+ASX,BXN,Bioxyne Limited,Health Care,23685400,0.001
+ASX,BYE,Byron Energy Limited,Energy,229471000,0.011
+ASX,BYH,Bryah Resources Limited,Materials,4310260,0
+ASX,BYI,Beyond International,Consumer Discretionary,42322500,0.002
+ASX,C6C,Copper Mountain Chess Depositary Interests 1:1,Materials,38887200,0.002
+ASX,CA8,Coassets Limited,Financials,25023000,0.001
+ASX,CAA,Capral Limited,Materials,74444800,0.003
+ASX,CAB,Cabcharge Australia,Industrials,273378000,0.013
+ASX,CAD,Caeneus Minerals,Materials,14063100,0.001
+ASX,CAE,Cannindah Resources,Materials,4548730,0
+ASX,CAF,Centrepoint Alliance,Financials,23539900,0.001
+ASX,CAG,Caperangeltd,Information Technology,48638300,0.002
+ASX,CAI,Calidus Resources,Materials,22442600,0.001
+ASX,CAJ,Capitol Health,Health Care,233730000,0.011
+ASX,CAM,Clime Capital,,86777800,0.004
+ASX,CAN,Cann Group Limited,Health Care,291773000,0.014
+ASX,CAP,Carpentaria Resource,Materials,18175500,0.001
+ASX,CAQ,CAQ Holdings Limited,Real Estate,27275900,0.001
+ASX,CAR,Carsales.com Limited,Information Technology,3516790000,0.165
+ASX,CAS,Crusader Resources,Materials,10043000,0
+ASX,CAT,Catapult Group Int Limited,Information Technology,209985000,0.01
+ASX,CAV,Carnavale Resources,Materials,6580000,0
+ASX,CAY,Canyon Resources Limited,Materials,72221800,0.003
+ASX,CAZ,Cazaly Resources,Materials,6450260,0
+ASX,CBA,Commonwealth Bank,Financials,125670000000,5.887
+ASX,CBC,CBG Capital Limited,,25221400,0.001
+ASX,CBL,CBL Corporation Limited Foreign Exempt NZX,Financials,664894000,0.031
+ASX,CCA,Change Financial Limited,Information Technology,9848120,0
+ASX,CCE,Carnegie CLN Energy,Utilities,25933100,0.001
+ASX,CCG,Commschoice,Information Technology,13059900,0.001
+ASX,CCJ,County International,Energy,1506800,0
+ASX,CCL,Coca-Cola Amatil,Consumer Staples,7066240000,0.331
+ASX,CCP,Credit Corp Group,Financials,1062000000,0.05
+ASX,CCV,Cash Converters,Consumer Discretionary,197260000,0.009
+ASX,CCZ,Castillo Copper Limited,Materials,23203800,0.001
+ASX,CD1,Cordish Dixon Pef I Ordinary Units FP,,66323300,0.003
+ASX,CD2,Cordish Dixon Pef Ii Ordinary Units FP,,118659000,0.006
+ASX,CD3,Cordish Dixon Pefiii Ordinary Units FP,,110924000,0.005
+ASX,CDA,Codan Limited,Information Technology,576868000,0.027
+ASX,CDD,Cardno Limited,Industrials,537490000,0.025
+ASX,CDG,Cleveland Min Limited,Materials,27878500,0.001
+ASX,CDH,Chongherr Investment,Materials,1171870,0
+ASX,CDM,Cadence Capital,,385948000,0.018
+ASX,CDP,Carindale Property Units FP,Real Estate,566300000,0.027
+ASX,CDT,Castle Minerals,Materials,2461760,0
+ASX,CDU,Cudeco Limited,Materials,92655400,0.004
+ASX,CDV,Cardinal Reso Limited,Materials,172137000,0.008
+ASX,CDX,Cardiex Limited,Health Care,20779900,0.001
+ASX,CDY,Cellmid Limited,Health Care,30818800,0.001
+ASX,CE1,Calima Energy,Energy,65294600,0.003
+ASX,CEL,Challenger Energy,Energy,4673600,0
+ASX,CEN,Contact Energy Limited Foreign Exempt NZX,Utilities,983463000,0.046
+ASX,CETF,Vaneck China Ashare ETF Cdis 1:1,,14663000,0.001
+ASX,CFE,Cape Lambert Res Limited,Materials,22258200,0.001
+ASX,CFO,Cfoam Limited,Industrials,15940000,0.001
+ASX,CG1,Carbonxt Group,Materials,38412800,0.002
+ASX,CGA,Contango Asset,Financials,29199600,0.001
+ASX,CGC,Costa Group Holdings,Consumer Staples,2280670000,0.107
+ASX,CGF,Challenger Limited,Financials,6841580000,0.32
+ASX,CGL,The Citadel Group,Information Technology,397268000,0.019
+ASX,CGM,Cougar Metals NL,Materials,3731210,0
+ASX,CGN,Crater Gold Min Limited,Materials,5589300,0
+ASX,CGO,CPT Global Limited,Information Technology,5970960,0
+ASX,CGR,CML Group Limited,Industrials,109568000,0.005
+ASX,CGS,Cogstate Limited,Health Care,67867000,0.003
+ASX,CHC,Charter Hall Group Stapled Securities US Prohibited,Real Estate,3334960000,0.156
+ASX,CHK,Cohiba Min Limited,Materials,3905630,0
+ASX,CHN,Chalice Gold Mines,Materials,37319500,0.002
+ASX,CHP,Chapmans Limited,Financials,2714060,0
+ASX,CHR,Chalmers Limited,Industrials,30456000,0.001
+ASX,CHZ,Chesser Resources,Materials,10728900,0.001
+ASX,CI1,Credit Intelligence,Industrials,14767700,0.001
+ASX,CIA,Champion Iron Limited,Materials,565812000,0.027
+ASX,CIE,Contango Inc Gen Limited,,95628100,0.004
+ASX,CII,Ci Resources Limited,Materials,190709000,0.009
+ASX,CIM,Cimic Group Limited,Industrials,16653700000,0.78
+ASX,CIN,Carlton Investments,Financials,889020000,0.042
+ASX,CINPA,Carlton Investments 7% Cumulative Preference,Financials,166786,0
+ASX,CIO,Connected Io Limited,Information Technology,3063310,0
+ASX,CIP,Centuria I REIT Ordinary Units FP,Real Estate,705334000,0.033
+ASX,CIW,Clime Investment,Financials,28424200,0.001
+ASX,CIZ,Corizon Limited,,3150000,0
+ASX,CKA,Cokal Limited,Materials,26570800,0.001
+ASX,CKF,Collins Foods Limited,Consumer Discretionary,721207000,0.034
+ASX,CL1,Class Limited,Information Technology,251797000,0.012
+ASX,CL8,Collaborate Corp,Consumer Discretionary,9905890,0
+ASX,CLA,Celsius Resource Limited,Materials,93199100,0.004
+ASX,CLF,Concentrated Leaders,Financials,76925000,0.004
+ASX,CLH,Collection House,Industrials,212586000,0.01
+ASX,CLI,Croplogic,Industrials,2300060,0
+ASX,CLL,Collerina Cobalt,Materials,64296500,0.003
+ASX,CLQ,Clean TEQ Holdings Limited,Industrials,406252000,0.019
+ASX,CLT,Cellnet Group,Information Technology,31297500,0.001
+ASX,CLV,Clover Corporation,Health Care,257683000,0.012
+ASX,CLW,CHTR H LWR Stapled Securities,Real Estate,975661000,0.046
+ASX,CLX,Cti Logistics,Industrials,79452900,0.004
+ASX,CLY,Clancy Exploration,Materials,6748770,0
+ASX,CLZ,Classic Min Limited,Materials,12525800,0.001
+ASX,CM1,Coolgardie Minerals,Materials,10387300,0
+ASX,CM8,Crowd Mobile Limited,Consumer Discretionary,9993340,0
+ASX,CMA,Centuria Metro REIT Ordinary Units FP,Real Estate,614264000,0.029
+ASX,CMC,China Magnesium Corp,Materials,6927740,0
+ASX,CMD,Cassius Mining Limited,Materials,7837390,0
+ASX,CMI,CMI Limited,,46580500,0.002
+ASX,CMM,Capricorn Metals,Materials,60582800,0.003
+ASX,CMP,Compumedics Limited,Health Care,79723300,0.004
+ASX,CMW,Cromwell Prop Ordinary/Units FP Stapled Securities,Real Estate,2129430000,0.1
+ASX,CMY,Capital Mining,Materials,5068950,0
+ASX,CND,Clarius Group Limited,Industrials,4927020,0
+ASX,CNI,Centuria Capital Stapled Securities,Financials,416043000,0.019
+ASX,CNJ,Conico Limited,Materials,8972380,0
+ASX,CNL,Celamin Holdings Limited,Materials,2781750,0
+ASX,CNU,Chorus Limited Foreign Exempt NZX,Telecommunication Services,1903310000,0.089
+ASX,CNW,Cirrus Net Hold Limited,Information Technology,15526000,0.001
+ASX,CNX,Carbon Energy,Energy,6168680,0
+ASX,COB,Cobalt Blue Limited,Materials,30613200,0.001
+ASX,COE,Cooper Energy Limited,Energy,728491000,0.034
+ASX,COG,Consolidated Ops GP,,156285000,0.007
+ASX,COH,Cochlear Limited,Health Care,11574100000,0.542
+ASX,COI,Comet Ridge Limited,Energy,276593000,0.013
+ASX,COM,Comops Limited,Information Technology,11876300,0.001
+ASX,COO,Corum Group Limited,Information Technology,9990540,0
+ASX,CORE,ETFs GLB CORE Infra ETF Units FP,,3248340,0
+ASX,COY,Coppermoly Limited,Materials,11021300,0.001
+ASX,CP1,Cannpal Animal,Health Care,7117210,0
+ASX,CPH,Creso Pharma Limited,Health Care,51814300,0.002
+ASX,CPU,Computershare Limited,Information Technology,10832000000,0.507
+ASX,CPV,Clearvue Technologie,Industrials,32976400,0.002
+ASX,CQR,Charter Hall Retail Units FP,Real Estate,1707590000,0.08
+ASX,CR1,Constellation Res,Materials,9450030,0
+ASX,CRB,Carbine Resources,Materials,5992400,0
+ASX,CRD,Credible Labs Chess Depositary Interests 25:1 US Prohibited,Financials,131564000,0.006
+ASX,CRED,Betaauscorpbondetf ETF Units FP,,26042600,0.001
+ASX,CRL,Comet Resources,Materials,6180000,0
+ASX,CRM,Carbon Minerals Limited,Energy,2068380,0
+ASX,CRO,Cirralto Limited,Information Technology,6593350,0
+ASX,CRR,Conven Retail REIT Stapled Securities,Real Estate,220976000,0.01
+ASX,CSD,Consolidated Tin Min,Materials,13610500,0.001
+ASX,CSE,Copper Strike Limited,Materials,16560900,0.001
+ASX,CSK,Crowdspark Limited,Consumer Discretionary,1369790,0
+ASX,CSL,CSL Limited,Health Care,91094400000,4.267
+ASX,CSR,CSR Limited,Materials,1901240000,0.089
+ASX,CSS,Clean Seas Limited,Consumer Staples,101706000,0.005
+ASX,CSV,CSG Limited,Information Technology,83588900,0.004
+ASX,CT1,CCP Technologies Limited,Information Technology,5158120,0
+ASX,CTD,Corp Travel Limited,Consumer Discretionary,3305120000,0.155
+ASX,CTE,Cryosite Limited,Health Care,2999010,0
+ASX,CTL,Centennial MNG Limited,Materials,9399910,0
+ASX,CTM,Centaurus Metals Limited,Materials,18439900,0.001
+ASX,CTO,Citigold Corp Limited,Materials,15047400,0.001
+ASX,CTP,Central Petroleum,Energy,98996200,0.005
+ASX,CTX,Caltex Australia,Energy,7798230000,0.365
+ASX,CUE,CUE Energy Resource,Energy,46075900,0.002
+ASX,CUL,Cullen Resources,Materials,2598560,0
+ASX,CUP,Countplus Limited,Industrials,75386900,0.004
+ASX,CUV,Clinuvel Pharmaceut,Health Care,1054310000,0.049
+ASX,CUX,Crossland Metals Limited,Materials,5058230,0
+ASX,CV1,CV Check Limited,Information Technology,16107500,0.001
+ASX,CVC,CVC Limited,Financials,334808000,0.016
+ASX,CVF,Contrarian Valfd Limited,,80123000,0.004
+ASX,CVL,Civmec Limited Chess Depositary Interests 1:1,Industrials,288075000,0.013
+ASX,CVN,Carnarvon Petroleum,Energy,475955000,0.022
+ASX,CVS,Cervantes Corp Limited,Materials,3462780,0
+ASX,CVT,Covata Limited,Information Technology,16825500,0.001
+ASX,CVV,Caravel Minerals Limited,Materials,6124660,0
+ASX,CVW,Clearview Wealth Limited,Financials,628167000,0.029
+ASX,CWL,Chant West Holdings,Information Technology,6196190,0
+ASX,CWN,Crown Resorts Limited,Consumer Discretionary,9410800000,0.441
+ASX,CWP,Cedar Woods Prop,Real Estate,457220000,0.021
+ASX,CWX,Carawine Resources,Materials,12316400,0.001
+ASX,CWY,Cleanaway Waste Limited,Industrials,3836280000,0.18
+ASX,CXL,CALIX Limited,,76841000,0.004
+ASX,CXM,Centrex Metals,Materials,36303800,0.002
+ASX,CXO,Core Exploration Limited,Materials,30420600,0.001
+ASX,CXU,Cauldron Energy Limited,Energy,9220110,0
+ASX,CXX,Cradle Resources Limited,Materials,15722700,0.001
+ASX,CXZ,Connexion Media Limited,Information Technology,5895160,0
+ASX,CY5,CYGNUS Gold Limited,Materials,3969350,0
+ASX,CYA,Century Australia,Financials,91912100,0.004
+ASX,CYB,CYBG Plc Cdi 1:1 Foreign Exempt Lse,Financials,4602240000,0.216
+ASX,CYC,Cyclopharm Limited,Health Care,72879600,0.003
+ASX,CYG,Coventry Group,Industrials,47145600,0.002
+ASX,CYL,Catalyst Metals,Materials,119361000,0.006
+ASX,CYP,Cynata Therapeutics,Health Care,124356000,0.006
+ASX,CYQ,CYCLIQ Group Limited,Consumer Discretionary,6102770,0
+ASX,CZI,Cassini Resources,Materials,25567500,0.001
+ASX,CZL,Cons ZINC Limited,Materials,21273600,0.001
+ASX,CZN,Corazon Limited,Materials,8856980,0
+ASX,CZR,Coziron Resources,Materials,28568800,0.001
+ASX,CZZ,Capilano Honey Limited,Consumer Staples,199553000,0.009
+ASX,D13,Department 13 Intl,Industrials,35177900,0.002
+ASX,D2O,Duxton Water Limited,,123233000,0.006
+ASX,DAF,Discovery Africa Limited,Materials,2733520,0
+ASX,DAU,Dampier Gold Limited,Materials,4546320,0
+ASX,DAV,Davenport Resources,Materials,4282170,0
+ASX,DBF,Duxton Broadacre,Financials,65215100,0.003
+ASX,DCC,Digitalx Limited,Information Technology,42387200,0.002
+ASX,DCG,Decmil Group Limited,Industrials,154583000,0.007
+ASX,DCL,Domacom Limited,Financials,6859360,0
+ASX,DCN,Dacian Gold Limited,Materials,499440000,0.023
+ASX,DDD,3D Resources Limited,Materials,3543780,0
+ASX,DDR,Dicker Data Limited,Information Technology,478721000,0.022
+ASX,DDT,Datadot Technology,Consumer Discretionary,1621210,0
+ASX,DEG,De Grey Mining,Materials,54519000,0.003
+ASX,DEM,De.Mem Limited,Utilities,9802620,0
+ASX,DEV,DEVEX Resources Limited,Energy,6619660,0
+ASX,DFM,Dongfang Modern AG,Consumer Staples,420357000,0.02
+ASX,DGH,Desane Group Holdings,Real Estate,57274000,0.003
+ASX,DGO,DGO Gold Limited,Materials,13419900,0.001
+ASX,DGR,DGR Global Limited,Materials,88911400,0.004
+ASX,DHG,Domain Holdings Aus,Information Technology,2031730000,0.095
+ASX,DHR,Dark Horse Resources,Materials,15383000,0.001
+ASX,DIV,Ubs IQ Mstar Aus DIV ETF Units FP,,10090200,0
+ASX,DJRE,SPDR DJ Global REIT ETF Units FP,,255311000,0.012
+ASX,DJW,Djerriwarrh,Financials,760722000,0.036
+ASX,DKM,Duketon Mining,Materials,22980700,0.001
+ASX,DLC,Delecta Limited,Consumer Discretionary,6968460,0
+ASX,DLX,Duluxgroup Limited,Materials,2985550000,0.14
+ASX,DMA,Dynasty Resources,Materials,30379600,0.001
+ASX,DMC,Digimatic Group Limited Chess Depositary Interests 1:1,Information Technology,28761100,0.001
+ASX,DME,Dome Gold Mines Limited,Materials,59187000,0.003
+ASX,DMG,Dragon Mountain Gold,Materials,2898840,0
+ASX,DMKT,Ampcap Dynamic MKTHF Trading Managed Fund Units FP,,30105800,0.001
+ASX,DMP,Domino PIZZA Enterpr,Consumer Discretionary,4547600000,0.213
+ASX,DN8,Dreamscape Netwk Limited,Information Technology,46661600,0.002
+ASX,DNA,Donaco International,Consumer Discretionary,144129000,0.007
+ASX,DNK,Danakali Limited,Materials,227210000,0.011
+ASX,DOR,Doriemus Plc Chess Depositary Interests 1:1,Energy,6050410,0
+ASX,DOW,Downer Edi Limited,Industrials,4692200000,0.22
+ASX,DRA,Dragon Mining Limited,Materials,15991300,0.001
+ASX,DRK,Drake Resources,Materials,3134240,0
+ASX,DRM,Doray Minerals Limited,Materials,154106000,0.007
+ASX,DRO,Droneshield Limited,Information Technology,28892600,0.001
+ASX,DRUG,Beta Global Health ETF Units FP,,28115900,0.001
+ASX,DRX,Diatreme Resources,Materials,30788100,0.001
+ASX,DSE,Dropsuite Limited,Information Technology,29517200,0.001
+ASX,DSX,Decimal Software Limited,Information Technology,4105050,0
+ASX,DTI,DTI Group Limited,Information Technology,15073900,0.001
+ASX,DTL,Data#3 Limited,Information Technology,227883000,0.011
+ASX,DTM,Dart Mining NL,Materials,5139680,0
+ASX,DTR,Dateline Resources,Materials,9366450,0
+ASX,DTS,Dragontail Systems,Information Technology,16179900,0.001
+ASX,DTZ,DOTZ Nano Limited,Information Technology,9278320,0
+ASX,DUB,Dubber Corp Limited,Information Technology,62335300,0.003
+ASX,DUI,Diversified United,Financials,871256000,0.041
+ASX,DVL,Dorsavi Limited,Health Care,14273000,0.001
+ASX,DVN,Devine Limited,Real Estate,47619200,0.002
+ASX,DW8,Dawine Limited,Consumer Discretionary,2688140,0
+ASX,DWS,DWS Limited,Information Technology,156220000,0.007
+ASX,DXB,Dimerix Limited,Health Care,16673900,0.001
+ASX,DXN,The Data Exchange,Information Technology,19762600,0.001
+ASX,DXS,Dexus Units FP Stapled,Real Estate,10741600000,0.503
+ASX,DYL,Deep Yellow Limited,Energy,102271000,0.005
+ASX,E25,Element 25 Limited,Materials,15023600,0.001
+ASX,E2E,Eon NRG Limited,Energy,2438340,0
+ASX,E2M,E2 Metals,Materials,4319960,0
+ASX,E88,Ensogo Limited,,25433300,0.001
+ASX,EAF,Evanspartnersasiafnd Ordinary Units FP,,153649000,0.007
+ASX,EAI,Ellerston Asian,,115523000,0.005
+ASX,EAR,Echo Resources,Materials,65967300,0.003
+ASX,EAS,Easton Investments,Financials,32063800,0.002
+ASX,EAX,Energy Action Limited,Industrials,20244200,0.001
+ASX,EBG,Eumundi Group Limited,Consumer Discretionary,36202300,0.002
+ASX,EBO,Ebos Group Limited,Health Care,3139260000,0.147
+ASX,ECG,Ecargo HLDG Chess Depositary Interest 1:1,Industrials,79982500,0.004
+ASX,ECT,ENV Clean Tech Limited,Industrials,48005200,0.002
+ASX,ECX,Eclipx Group Limited,Financials,821466000,0.038
+ASX,ED1,Evans Dixon,Financials,475131000,0.022
+ASX,EDC,Eildon Capital Limited,Financials,46731600,0.002
+ASX,EDE,Eden INV Limited,Energy,63135500,0.003
+ASX,EEG,Empire Energy Limited,Energy,36375600,0.002
+ASX,EER,East Energy Resource,Energy,12803900,0.001
+ASX,EEU,Betashares Euro ETF ETF Units FP,,7277250,0
+ASX,EFE,Eastern Iron,Materials,2883300,0
+ASX,EFF,E&P Aus Flagship Ordinary Units FP,,32843000,0.002
+ASX,EGA,Egan Street Res Limited,Materials,27395300,0.001
+ASX,EGD,E&P GBL Disruption Ordinary Units FP,,268504000,0.013
+ASX,EGF,Evans & Partners Ordinary Units FP,,192869000,0.009
+ASX,EGG,Enero Group Limited,Consumer Discretionary,110430000,0.005
+ASX,EGH,Eureka Group Limited,Real Estate,67861100,0.003
+ASX,EGI,Ellerston Global INV,,118934000,0.006
+ASX,EGL,Environmental Group,Industrials,11444400,0.001
+ASX,EGN,Engenco Limited,Industrials,178627000,0.008
+ASX,EGS,Eastern Goldfields,Materials,87605200,0.004
+ASX,EGY,Energy Tech Limited,Industrials,1044740,0
+ASX,EHE,Estia Health Limited,Health Care,617629000,0.029
+ASX,EHH,Eagle HLTH Holdings Limited,Consumer Staples,89160400,0.004
+ASX,EHL,Emeco Holdings,Industrials,1096710000,0.051
+ASX,EHX,Ehr Resources,Materials,4180040,0
+ASX,EIGA,Einvest Income Trading Managed Units FP,,20526000,0.001
+ASX,EINC,Betalm Equity Income Trading Managed Units FP,,15383700,0.001
+ASX,ELD,Elders Limited,Consumer Staples,821154000,0.038
+ASX,ELK,ELK Petroleum,Energy,113261000,0.005
+ASX,ELO,Elmo Software,Information Technology,141151000,0.007
+ASX,ELS,Elsight Limited,Information Technology,41716100,0.002
+ASX,ELT,Elementos Limited,Materials,9361320,0
+ASX,ELX,ELLEX Medical Lasers,Health Care,100521000,0.005
+ASX,EM1,Emerge Gaming Limited,Information Technology,3990940,0
+ASX,EM2,Eagle Mountain,Materials,21942600,0.001
+ASX,EMB,Embelton Limited,Industrials,30188400,0.001
+ASX,EME,Energy Metals Limited,Energy,31452500,0.001
+ASX,EMH,European Metals HLDG Chess Depositary Interests 1:1,Materials,47027000,0.002
+ASX,EMKT,Vaneck Emerging MKT ETF Units FP,,7420060,0
+ASX,EML,EML Payments Limited,Information Technology,396497000,0.019
+ASX,EMP,Emperor Energy Limited,Energy,2723580,0
+ASX,EMR,Emerald Res NL,Materials,73893800,0.003
+ASX,EMU,EMU NL,Materials,4094990,0
+ASX,EN1,Engage:BDR Limited,Information Technology,16559300,0.001
+ASX,ENA,Ensurance Limited,Financials,11771700,0.001
+ASX,ENB,Eneabba Gas Limited,Utilities,3668920,0
+ASX,ENE,Enevis Limited,Industrials,18178900,0.001
+ASX,ENN,Elanor Investors Group Stapled Securities FP,Consumer Discretionary,179985000,0.008
+ASX,ENR,Encounter Resources,Materials,12872300,0.001
+ASX,ENT,Enterprise Metals,Materials,6522190,0
+ASX,ENX,Enegex Limited,Energy,965997,0
+ASX,EOL,Energy One Limited,Information Technology,20635800,0.001
+ASX,EOR,En Oil Gas Limited,Energy,3278480,0
+ASX,EOS,Electro Optic SYS,Industrials,302727000,0.014
+ASX,EPA,Ephraim Res Limited,,3080000,0
+ASX,EPD,Empired Limited,Information Technology,85668000,0.004
+ASX,EPM,Eclipse Metals,Energy,4594700,0
+ASX,EPW,Erm Power Limited,Utilities,430384000,0.02
+ASX,EQE,EQUUS Mining Limited,Materials,15841700,0.001
+ASX,EQT,Equity HL,Financials,480358000,0.023
+ASX,EQX,Equatorial Res Limited,Materials,41689200,0.002
+ASX,ERA,Energy Resources 'A',Energy,196736000,0.009
+ASX,ERF,Elanoretl Property Stapled Securities,Real Estate,160912000,0.008
+ASX,ERL,Empire Resources,Materials,5798420,0
+ASX,ERM,Emmerson Resources,Materials,29478600,0.001
+ASX,ESE,Esense-Lab Limited Chess Depositary Interests 1:1,Health Care,1414840,0
+ASX,ESGI,Vaneck ESG Internatl ETF Units FP,,11291000,0.001
+ASX,ESH,Esports Mogul Asia,Information Technology,28364800,0.001
+ASX,ESK,Etherstack Plc Chess Depositary Interests 1:1,Information Technology,29038200,0.001
+ASX,ESM,Esperance Minerals,Materials,2836480,0
+ASX,ESR,Estrella Res Limited,Materials,10333500,0
+ASX,ESTX,ETFSEUROSTOXX50 ETF Units FP,,64344500,0.003
+ASX,ESV,Eservglobal Limited,Information Technology,95219300,0.004
+ASX,ETE,Entek Energy Limited,Energy,4570930,0
+ASX,ETF,Ubs IQ Mstar Aus ETF Units FP,,8604470,0
+ASX,ETHI,Betasustainability ETF Units FP,,240987000,0.011
+ASX,ETPMAG,ETFs Physical Silver,,54878300,0.003
+ASX,ETPMPD,ETFs Physical Palladium,,1285370,0
+ASX,ETPMPM,ETFs Physical PM Basket,,6214870,0
+ASX,ETPMPT,ETFs Physical Platinum,,1660480,0
+ASX,EUC,European Cobalt Limited,Materials,39608300,0.002
+ASX,EUR,European Lithium Limited,Materials,57765000,0.003
+ASX,EUZ,Europa Metals Limited,Materials,11149200,0.001
+ASX,EVE,EVE Investments Limited,Financials,15883200,0.001
+ASX,EVM,Enviromission Limited,Utilities,56534300,0.003
+ASX,EVN,Evolution Mining Limited,Materials,4496950000,0.211
+ASX,EVO,Evolve Education Group Foreign Exempt NZX,Consumer Discretionary,80911000,0.004
+ASX,EVS,Envirosuite Limited,Information Technology,22998800,0.001
+ASX,EVT,Event Hospitality,Consumer Discretionary,2376300000,0.111
+ASX,EVZ,EVZ Limited,Industrials,30554000,0.001
+ASX,EWC,Energy World Corpor,Utilities,341170000,0.016
+ASX,EX20,BETAAUSEX20 ETF Units FP,,80737700,0.004
+ASX,EXG,Excelsior Gold Limited,Materials,29260200,0.001
+ASX,EXL,Elixinol Global,Consumer Staples,48010400,0.002
+ASX,EXO,ENNOX Group Limited,Financials,8842540,0
+ASX,EXP,Experience Co Limited,Consumer Discretionary,192169000,0.009
+ASX,EXR,Elixir Petroleum Limited,Energy,15266800,0.001
+ASX,EXU,Explaurum Limited,Materials,57769500,0.003
+ASX,EZL,EUROZ Limited,Financials,202847000,0.01
+ASX,FAIR,Betaausustainability ETF Units FP,,169032000,0.008
+ASX,FAR,FAR Limited,Energy,628076000,0.029
+ASX,FAU,First Au Limited,Materials,4927170,0
+ASX,FBR,FBR Limited,Industrials,196444000,0.009
+ASX,FBU,Fletcher Building Foreign Exempt NZX,Materials,5103020000,0.239
+ASX,FCC,First Cobalt Corp Chess Depositary Interests 1:1,Materials,29428200,0.001
+ASX,FCG,Frontier Capital Group,Consumer Discretionary,19103200,0.001
+ASX,FCT,Firstwave Cloud Tech,Information Technology,51688600,0.002
+ASX,FDIV,Vaneck Franked DIV ETF Units FP,,3962820,0
+ASX,FDM,Freedom Oil Gas,Energy,220790000,0.01
+ASX,FDV,Frontier Digital Limited,Information Technology,84510500,0.004
+ASX,FDX,Frontier Diamonds,Materials,3692040,0
+ASX,FE8,Faster Enterprises,Real Estate,4989840,0
+ASX,FEI,Fe INV Group Limited,Information Technology,11378300,0.001
+ASX,FEL,Fe Limited,Materials,5879920,0
+ASX,FET,Folkestone Edu Trust Units FP,Real Estate,723095000,0.034
+ASX,FEX,FENIX Resources Limited,Materials,408583,0
+ASX,FFC,Farmaforce Limited,Health Care,3622600,0
+ASX,FFG,Fatfish Internet Group,Financials,9991890,0
+ASX,FFI,F.F.I. Holdings,Consumer Staples,42835500,0.002
+ASX,FGF,First Growth Funds,,25686300,0.001
+ASX,FGG,Future GLB Invest Co,,410116000,0.019
+ASX,FGO,Flamingo Ai Limited,Information Technology,23687000,0.001
+ASX,FGR,First Graphene Limited,Materials,62596200,0.003
+ASX,FGX,Future Gen Limited,,469054000,0.022
+ASX,FHS,Freehill Mining Limited,Materials,3588090,0
+ASX,FID,Fiducian Group Limited,Financials,145116000,0.007
+ASX,FIG,Freedom Insurance,Financials,32362700,0.002
+ASX,FIN,FIN Resources Limited,Materials,5633830,0
+ASX,FLC,Fluence Corporation,Industrials,185669000,0.009
+ASX,FLK,Folkestone Limited,Real Estate,204749000,0.01
+ASX,FLN,Freelancer Limited,Consumer Discretionary,235789000,0.011
+ASX,FLOT,Vaneck Au Float Rate ETF Units FP,,123406000,0.006
+ASX,FLT,Flight Centre Travel,Consumer Discretionary,5373260000,0.252
+ASX,FMG,Fortescue Metals Group,Materials,12206100000,0.572
+ASX,FML,Focus Minerals Limited,Materials,31067300,0.001
+ASX,FMS,Flinders Mines Limited,Materials,278814000,0.013
+ASX,FND,Finders Resources,Materials,177472000,0.008
+ASX,FNP,Freedom Food Limited,Consumer Staples,1500500000,0.07
+ASX,FNT,Frontier Resources,Materials,8314730,0
+ASX,FOD,The Food Revolution,Consumer Staples,62939400,0.003
+ASX,FOOD,Beta Global Agri ETF Units FP,,17771800,0.001
+ASX,FOR,Forager Aust SHS FND Ordinary Units FP,,163547000,0.008
+ASX,FPC,Fat Prophets GBL Limited,,41353300,0.002
+ASX,FPH,Fisher & Paykel H Foreign Exempt NZX,Health Care,7896270000,0.37
+ASX,FPL,Fremont Petroleum,Energy,6913420,0
+ASX,FPP,Fat Prophets G P F Ordinary Units FP,,15317700,0.001
+ASX,FRI,Finbar Group Limited,Real Estate,243050000,0.011
+ASX,FRM,Farm Pride Foods,Consumer Staples,48006800,0.002
+ASX,FRN,Fraser Range Metals,Materials,4500000,0
+ASX,FRX,Flexiroam Limited,Telecommunication Services,8908580,0
+ASX,FSA,FSA Group Limited,Financials,167624000,0.008
+ASX,FSF,Fonterra Share Fund Ordinary Units FP Foreign Exempt NZX,Consumer Staples,477563000,0.022
+ASX,FSG,Field Solu Holdings Limited,Telecommunication Services,12470400,0.001
+ASX,FSI,Flagship Investments,Financials,46032400,0.002
+ASX,FTC,Fintech Chain Limited Chess Depositary Interests 1:1,Information Technology,48807700,0.002
+ASX,FTT,Factor Theraptcs Limited,Health Care,60072200,0.003
+ASX,FTZ,Fertoz Limited,Materials,23794800,0.001
+ASX,FUEL,Beta Global Energy ETF Units FP,,34557700,0.002
+ASX,FUN,Funtastic Limited,Consumer Discretionary,7111900,0
+ASX,FWD,Fleetwood Corp,Consumer Discretionary,222226000,0.01
+ASX,FXJ,Fairfax Media Limited,Consumer Discretionary,1897070000,0.089
+ASX,FXL,Flexigroup Limited,Financials,716741000,0.034
+ASX,FYA,Fortune Asia Group Limited,Materials,1237500,0
+ASX,FYI,FYI Resources Limited,Materials,18085600,0.001
+ASX,FZO,Family ZONE Cyber,Information Technology,54455300,0.003
+ASX,FZR,Fitzroy River Corp,Energy,17690200,0.001
+ASX,G1A,Galena Mining,Materials,42746900,0.002
+ASX,G88,Golden Mile Res Limited,Materials,8573240,0
+ASX,GAL,Galileo Mining Limited,Materials,19509400,0.001
+ASX,GAP,Gale Pacific Limited,Consumer Discretionary,102082000,0.005
+ASX,GAS,State GAS Limited,Energy,9826000,0
+ASX,GBA,Grandbridge Limited,Financials,612667,0
+ASX,GBE,Globe Metals &Mining,Materials,6056990,0
+ASX,GBG,Gindalbie Metals Limited,Materials,25493800,0.001
+ASX,GBI,Genera Biosystems,Health Care,17194600,0.001
+ASX,GBM,GBM Gold Limited,Materials,7828240,0
+ASX,GBP,Global Petroleum,Energy,7295500,0
+ASX,GBR,Greatbould Resources,Materials,14956400,0.001
+ASX,GBT,GBST Holdings,Information Technology,128355000,0.006
+ASX,GBZ,GBM Rsources Limited,Materials,6303580,0
+ASX,GC1,Glennon SML Co Limited,,47589500,0.002
+ASX,GCI,Gryphon Capital Ordinary Units FP,,172670000,0.008
+ASX,GCM,Garda Capital Group Stapled Securities,,31537500,0.001
+ASX,GCN,Goconnect Limited,Information Technology,6989600,0
+ASX,GCR,Golden Cross,Materials,5081110,0
+ASX,GCS,Global Construction,Industrials,308291000,0.014
+ASX,GCY,Gascoyne Res Limited,Materials,147107000,0.007
+ASX,GDF,Garda DIV Prop Fund Ordinary Units FP,Real Estate,168902000,0.008
+ASX,GDG,Generation DEV Group,Financials,140886000,0.007
+ASX,GDI,GDI Property Group Stapled Securities FP,Real Estate,712289000,0.033
+ASX,GDX,Vaneck Gold Miners ETF Cdis 1:1,,62029600,0.003
+ASX,GEAR,Betshares GEAR Fund ETF Units FP,,65393200,0.003
+ASX,GED,Golden Deeps,Materials,7712140,0
+ASX,GEM,G8 Education Limited,Consumer Discretionary,906949000,0.042
+ASX,GES,Genesis Resources,Materials,6262730,0
+ASX,GEV,Global Ene Ven Limited,Energy,69485800,0.003
+ASX,GFI,Global Fortune Limited,Materials,16156900,0.001
+ASX,GFL,Global Masters Fund,Financials,21875200,0.001
+ASX,GGE,Grand Gulf Energy,Energy,3070000,0
+ASX,GGG,Greenland Minerals,Materials,88877400,0.004
+ASX,GGUS,Beta Geared US EQ Trading Managed Fund Units FP,,18940000,0.001
+ASX,GGX,GAS2GRID Limited,Energy,4259440,0
+ASX,GID,Gi Dynamics Inc Cdi Forus,Health Care,16036500,0.001
+ASX,GLA,Gladiator Resources,Materials,2600500,0
+ASX,GLB,Globe International,Consumer Discretionary,84586200,0.004
+ASX,GLE,GLG Corp Limited,Consumer Discretionary,11856000,0.001
+ASX,GLH,Global Health Limited,Health Care,6351750,0
+ASX,GLIN,Ampcap Global Infra Trading Managed Fund Units FP,,22609600,0.001
+ASX,GLL,Galilee Energy Limited,Energy,144849000,0.007
+ASX,GLN,Galan Lithium Limited,Materials,26667200,0.001
+ASX,GMA,Genworth Mortgage,Financials,1076160000,0.05
+ASX,GMC,Gulf Manganese Corp,Materials,39739000,0.002
+ASX,GMD,Genesis Minerals,Materials,30967000,0.001
+ASX,GME,GME Resources Limited,Materials,55446100,0.003
+ASX,GMG,Goodman Group Stapled Securities FP,Real Estate,18791800000,0.88
+ASX,GML,Gateway Mining,Materials,14226400,0.001
+ASX,GMN,Gold Mountain Limited,Materials,48938600,0.002
+ASX,GMR,Golden Rim Resources,Materials,9448430,0
+ASX,GMV,G Medical,Health Care,42388300,0.002
+ASX,GMY,Goldfields Money,Financials,98898500,0.005
+ASX,GNC,Graincorp Limited Class A,Consumer Staples,1807960000,0.085
+ASX,GNE,Genesis Energy Limited Foreign Exempt NZX,Utilities,2390140000,0.112
+ASX,GNG,GR Engineering Limited,Materials,216429000,0.01
+ASX,GNX,GENEX Power Limited,Utilities,85100800,0.004
+ASX,GO2,THEGO2PEOPLE,Industrials,5079140,0
+ASX,GOE,Go Energy Group Limited,Industrials,9747050,0
+ASX,GOLD,ETFs Physical GOLD,Financials,587332000,0.028
+ASX,GOO,Gooroo Ventures Limited,Information Technology,3477020,0
+ASX,GOR,Gold Road Res Limited,Materials,596699000,0.028
+ASX,GOVT,SPDR GOVT Bond ETF Units FP,,12947500,0.001
+ASX,GOW,Gowing Bros. Limited,Financials,147491000,0.007
+ASX,GOZ,Growthpoint Property Unit/ Stapled Securities,Real Estate,2678000000,0.125
+ASX,GPP,Greenpower ENRGY Limited,Energy,5821480,0
+ASX,GPR,Geopacific Resources,Materials,54129600,0.003
+ASX,GPS,GPS Alliance Limited,Real Estate,5157750,0
+ASX,GPT,GPT Group Stapled Securities FP,Real Estate,9403480000,0.441
+ASX,GPX,Graphex Mining Limited,Materials,23220900,0.001
+ASX,GRB,Gage Roads Brewing,Consumer Staples,126445000,0.006
+ASX,GROW,SCH Real Return Fund Trading Managed Fund Units FP,,55854000,0.003
+ASX,GRR,Grange Resources,Materials,260401000,0.012
+ASX,GRV,Greenvale Energy Limited,Energy,2707300,0
+ASX,GSC,Global Geoscience,Materials,440849000,0.021
+ASX,GSL,Greatcell Solar Limited,Information Technology,65971600,0.003
+ASX,GSN,Great Southern,Materials,12349000,0.001
+ASX,GSS,Genetic Signatures,Health Care,76042200,0.004
+ASX,GSW,Getswift Limited,Information Technology,65382200,0.003
+ASX,GTE,Great Western Exp,Materials,6441400,0
+ASX,GTG,Genetic Technologies,Health Care,27985300,0.001
+ASX,GTK,Gentrack Group Limited Foreign Exempt NZX,Information Technology,645340000,0.03
+ASX,GTN,GTN Limited,Consumer Discretionary,489891000,0.023
+ASX,GTR,Gti Resources,Materials,2930730,0
+ASX,GTY,Gateway Lifestyle Stapled Securities,Real Estate,680348000,0.032
+ASX,GUD,G.U.D. Holdings,Consumer Discretionary,1251450000,0.059
+ASX,GUL,Gullewa Limited,Materials,3302710,0
+ASX,GVF,Global Value FND Limited,,159779000,0.007
+ASX,GWA,GWA Group Limited,Industrials,823517000,0.039
+ASX,GWR,GWR Group Limited,Materials,27774400,0.001
+ASX,GXL,Greencross Limited,Consumer Discretionary,509394000,0.024
+ASX,GXY,Galaxy Resources,Materials,1014730000,0.048
+ASX,GZL,GAZAL Corporation,Consumer Discretionary,205391000,0.01
+ASX,HACK,Beta Global Cyber ETF Units FP,,117265000,0.005
+ASX,HAR,Haranga Res Limited,Materials,1671610,0
+ASX,HAS,Hastings Tech Met,Materials,147834000,0.007
+ASX,HAV,Havilah Resources,Materials,41467300,0.002
+ASX,HAW,Hawthorn Resources,Materials,15742000,0.001
+ASX,HBRD,Beta Active Hybrids Trading Managed Units FP,,140663000,0.007
+ASX,HCH,Hot Chili Limited,Materials,17108900,0.001
+ASX,HCO,Hylea Metals Limited,Materials,7215490,0
+ASX,HCT,Holista Colltech Limited,Consumer Staples,15676700,0.001
+ASX,HDX,Hughes Drilling Limited,Materials,476935,0
+ASX,HDY,Hardey Resources Limited,Materials,7947950,0
+ASX,HE8,Helios Energy Limited,Energy,178324000,0.008
+ASX,HEG,Hill End Gold,Materials,9901990,0
+ASX,HEUR,Betashares WT Europe ETF Units FP,,45913500,0.002
+ASX,HFR,Highfield Res Limited,Materials,204306000,0.01
+ASX,HGL,Hudson Investment,Real Estate,8360760,0
+ASX,HGM,High Grade Metals,Materials,8778140,0
+ASX,HGO,Hillgrove Res Limited,Materials,52550400,0.002
+ASX,HHM,Hampton Hill Mining,Materials,8254550,0
+ASX,HHY,HHY Fund Ordinary Units FP,,5698490,0
+ASX,HIG,Highlands Pacific 40 Toea,Materials,125664000,0.006
+ASX,HIL,Hills Limited,Information Technology,42221400,0.002
+ASX,HIP,Hipo Resources Limited,Materials,6957190,0
+ASX,HIT,Hitech Group Aust,Industrials,39001200,0.002
+ASX,HJPN,Betashares WT Japan ETF Units FP,,59581100,0.003
+ASX,HLA,Healthia Limited,Health Care,76902300,0.004
+ASX,HLO,Helloworld Travl Limited,Consumer Discretionary,750784000,0.035
+ASX,HLX,HELIX Resources,Materials,13017400,0.001
+ASX,HML,Henry Morgan Limited,,60998500,0.003
+ASX,HMO,Hearmeout Limited,Information Technology,3251330,0
+ASX,HMX,Hammer Metals Limited,Materials,7529910,0
+ASX,HNG,HGL Limited,Industrials,26090900,0.001
+ASX,HNR,Hannans Limited,Materials,21783400,0.001
+ASX,HOG,Hawkley Oil and Gas,Energy,1219580,0
+ASX,HOM,Homeloans Limited,Financials,241605000,0.011
+ASX,HOR,Horseshoe Metals Limited,Materials,3309090,0
+ASX,HOT,Hotcopper Holdings,Information Technology,22000000,0.001
+ASX,HPI,Hotel Property Stapled Security FP,Real Estate,461693000,0.022
+ASX,HPR,High Peak Royalties,Utilities,9837380,0
+ASX,HRL,Hrlholding,Industrials,83878400,0.004
+ASX,HRN,Horizon Gold Limited,Materials,5250000,0
+ASX,HRR,Heron Resources,Materials,159500000,0.007
+ASX,HSN,Hansen Technologies,Information Technology,733871000,0.034
+ASX,HSO,Healthscope Limited,Health Care,3653380000,0.171
+ASX,HT1,HT&E Limited,Consumer Discretionary,926736000,0.043
+ASX,HT8,Harris Technology GL,Consumer Discretionary,3541980,0
+ASX,HTA,Hutchison,Telecommunication Services,1764430000,0.083
+ASX,HUB,HUB24 Limited,Financials,787987000,0.037
+ASX,HUO,Huon Aquaculture Group,Consumer Staples,410485000,0.019
+ASX,HVN,Harvey Norman,Consumer Discretionary,3921950000,0.184
+ASX,HVST,Beta Divharvester ETF Units FP,,184799000,0.009
+ASX,HWK,Hawkstone MNG Limited,Materials,17679900,0.001
+ASX,HXG,Hexagon Resources,Materials,42308600,0.002
+ASX,HZN,Horizon Oil Limited,Energy,195297000,0.009
+ASX,HZR,HAZER Group Limited,Materials,33554900,0.002
+ASX,IAA,Ishs Asia 50 ETF ETF Units FP,,480016000,0.022
+ASX,IAB,Inabox Group Limited,Telecommunication Services,11909100,0.001
+ASX,IAF,Ishares Comp BND ETF Units FP,,615546000,0.029
+ASX,IAG,Insurance Australia,Financials,17330300000,0.812
+ASX,IAM,Intiger Group Limited,Information Technology,20690500,0.001
+ASX,IAU,Intrepid Mines,Materials,15164600,0.001
+ASX,IB8,Ibosses Corp Limited,Consumer Discretionary,46438000,0.002
+ASX,IBC,Ironbark Capital Limited,Financials,69315600,0.003
+ASX,IBG,Ironbark ZINC Limited,Materials,26805300,0.001
+ASX,IBN,Ibuynew Group Limited,Real Estate,6457210,0
+ASX,IBX,Imagion Biosys Limited,Health Care,8171740,0
+ASX,ICG,Inca Minerals Limited,Materials,13946900,0.001
+ASX,ICI,Icandy Interactive,Information Technology,20773500,0.001
+ASX,ICN,Icon Energy Limited,Energy,11951100,0.001
+ASX,ICQ,Icar Asia Limited,Consumer Discretionary,84172800,0.004
+ASX,ICS,Icsglobal Limited,Health Care,12337400,0.001
+ASX,ICT,Icollege Limited,Consumer Discretionary,37221900,0.002
+ASX,ICU,Isentric Limited,Information Technology,5693310,0
+ASX,IDA,Indiana Resources,Materials,5358460,0
+ASX,IDR,Industria REIT Stapled Securities,Real Estate,442924000,0.021
+ASX,IDT,IDT Australia Limited,Health Care,45212600,0.002
+ASX,IDX,Integral Diagnostics,Health Care,427330000,0.02
+ASX,IDZ,Indoor Skydive Aust,Consumer Discretionary,13669700,0.001
+ASX,IEC,Intra Energy Corp,Energy,5428140,0
+ASX,IEL,Idp Education Limited,Consumer Discretionary,2623330000,0.123
+ASX,IEM,Ishs MSCI Emg Mktetf Chess Depositary Interests 1:1 Ishmsciem,,620507000,0.029
+ASX,IEQ,International Equiti,Real Estate,5128940,0
+ASX,IEU,Ishs Europe ETF ETF Units FP,,789832000,0.037
+ASX,IFL,IOOF Holdings Limited,Financials,2857760000,0.134
+ASX,IFM,Infomedia Limited,Information Technology,407684000,0.019
+ASX,IFN,Infigen Energy Stapled Securities FP,Utilities,564372000,0.026
+ASX,IFRA,Vaneck Infrastruct ETF Units FP,,80798700,0.004
+ASX,IFT,Infratil Limited Foreign Exempt NZX,Utilities,1851210000,0.087
+ASX,IGB,Ishares Treasury ETF Units FP,,35961400,0.002
+ASX,IGE,Int Green Energy,Industrials,54030000,0.003
+ASX,IGL,Ivegroup,Consumer Discretionary,318423000,0.015
+ASX,IGO,Independence Group,Materials,2751600000,0.129
+ASX,IGS,Int Goldfields Limited,Materials,2324080,0
+ASX,IHCB,Ishares GBL BND Aud ETF Units FP,,88228000,0.004
+ASX,IHD,Ishares S&P DIV Opp ETF Units FP,,243996000,0.011
+ASX,IHEB,Ishares Usdembond Au ETF Units FP,,13131600,0.001
+ASX,IHHY,Ishares GBLHGHYD Aud ETF Units FP,,26756900,0.001
+ASX,IHL,Imhealth Limited,Health Care,4034040,0
+ASX,IHOO,Ishares Global 100 ETF Units FP,,37350200,0.002
+ASX,IHR,Intellihr Holdings,Information Technology,11580300,0.001
+ASX,IHVV,Ishares S&P 500 Aud ETF Units FP,,126706000,0.006
+ASX,IHWL,Ishares Core WLD Aud ETF Units FP,,12479800,0.001
+ASX,IJH,Ishares Mid-Cap ETF ETF Units FP,,160096000,0.007
+ASX,IJP,Ishs MSCI Japan ETF Chess Depositary Interests 1:1 Ishmscijp,,278685000,0.013
+ASX,IJR,Ishares Small-Cap ETF Units FP,,185681000,0.009
+ASX,IKE,Ikegps Group Limited Foreign Exempt NZX,Information Technology,39629500,0.002
+ASX,IKO,Ishares MSCI SK ETF Chess Depositary Interests 1:1 Ishmsciko,,43202300,0.002
+ASX,IKW,Ikwezi Mining Limited,Energy,4065000,0
+ASX,ILB,Ishares GOV Infl ETF Units FP,,117207000,0.005
+ASX,ILC,ETF Units FP,,311789000,0.015
+ASX,ILU,Iluka Resources,Materials,4199320000,0.197
+ASX,IMA,Image Resources NL,Materials,119089000,0.006
+ASX,IMC,Immuron Limited,Health Care,47830700,0.002
+ASX,IMD,IMDEX Limited,Materials,439889000,0.021
+ASX,IME,Imexhs Limited,Information Technology,13848000,0.001
+ASX,IMF,IMF Bentham Limited,Financials,537609000,0.025
+ASX,IMM,Immutep Limited,Health Care,142226000,0.007
+ASX,IMS,Impelus Limited,Information Technology,8877650,0
+ASX,IMU,Imugene Limited,Health Care,75596800,0.004
+ASX,INA,Ingenia Group Units FP Stapled Securities,Real Estate,626470000,0.029
+ASX,IND,Indus Energy NL,Energy,3342530,0
+ASX,INF,Infinity Lithium,Materials,12532700,0.001
+ASX,ING,Inghams Group,Consumer Staples,1475340000,0.069
+ASX,INIF,Investsmartauincfund Trading Managed Units FP,,36600400,0.002
+ASX,INK,Indago Energy Limited,Energy,17347800,0.001
+ASX,INP,Incentiapay Limited,Consumer Discretionary,31947100,0.001
+ASX,INV,Investsmart Group,Financials,22467300,0.001
+ASX,IOD,Iodm Limited,Information Technology,6432500,0
+ASX,IOF,Investa Office Fund Stapled Securities,Real Estate,3303270000,0.155
+ASX,IOO,Ishs Global 100 ETF ETF Units FP,,1556800000,0.073
+ASX,IOR,Indiore Limited,Materials,19199700,0.001
+ASX,IOT,IOT Group Limited,Consumer Discretionary,1389620,0
+ASX,IOZ,Ishares S&P/ASX 200 ETF Units FP,,1189450000,0.056
+ASX,IP1,Int Payment Tech Limited,Information Technology,2768430,0
+ASX,IPB,IPB Petroleum Limited,Energy,11419100,0.001
+ASX,IPC,Imperial Pacific Limited,Financials,3519380,0
+ASX,IPD,Impedimed Limited,Health Care,172442000,0.008
+ASX,IPE,IPE Limited,Financials,10444400,0
+ASX,IPH,IPH Limited,Industrials,1188000000,0.056
+ASX,IPL,Incitec Pivot,Materials,6488250000,0.304
+ASX,IPT,Impact Minerals,Materials,15860200,0.001
+ASX,IQ3,IQ3CORP Limited,Financials,23902800,0.001
+ASX,IRC,Intermin Resources,Materials,36485200,0.002
+ASX,IRD,Iron Road Limited,Materials,50816600,0.002
+ASX,IRE,Iress Limited,Information Technology,2202350000,0.103
+ASX,IRI,Integrated Research,Information Technology,468934000,0.022
+ASX,IRL,India Resources,Materials,2001180,0
+ASX,IS3,I Synergy Group Limited,Consumer Discretionary,38974700,0.002
+ASX,ISD,Isentia Group Limited,Information Technology,66000000,0.003
+ASX,ISEC,Ishares Enhancd Cash ETF Units FP,,43186300,0.002
+ASX,ISO,ETF Units FP,,116784000,0.005
+ASX,ISU,Iselect Limited,Consumer Discretionary,152980000,0.007
+ASX,ISX,Isignthis Limited,Information Technology,160808000,0.008
+ASX,ITD,Itl Health Group Limited,Health Care,14543900,0.001
+ASX,ITW,Ishares MSCI TW ETF Chess Depositary Interests 1:1 Ishmscit,,50047100,0.002
+ASX,IVC,Invocare Limited,Consumer Discretionary,1359970000,0.064
+ASX,IVE,Ishs MSCI Eafe ETF Chess Depositary Interests 1:1 Isheafe,,345026000,0.016
+ASX,IVO,Invigor Group Limited,Consumer Discretionary,8507870,0
+ASX,IVQ,Invitrocue Limited,Health Care,46226200,0.002
+ASX,IVR,Investigator Res Limited,Materials,8139690,0
+ASX,IVT,Inventis Limited,Industrials,3513250,0
+ASX,IVV,Ishares S&P 500 ETF ETF Units FP,,3026900000,0.142
+ASX,IVX,Invion Limited,Health Care,186737000,0.009
+ASX,IVZ,Invictus Energy Limited,Energy,17555800,0.001
+ASX,IWLD,Ishares Core WLD ETF Units FP,,33971400,0.002
+ASX,IXI,Ishs Global Cons ETF ETF Units FP,,108267000,0.005
+ASX,IXJ,Ishs Glob Health ETF ETF Units FP,,568898000,0.027
+ASX,IXU,Ixup Limited,Information Technology,21688800,0.001
+ASX,IZZ,Ishs China ETF ETF Units FP,,110015000,0.005
+ASX,JAL,Jameson Resources,Materials,46159200,0.002
+ASX,JAN,Janison Edu Group,Information Technology,58306700,0.003
+ASX,JAT,Jatenergy Limited,Consumer Discretionary,26982900,0.001
+ASX,JAY,Jayride Group,Consumer Discretionary,23530200,0.001
+ASX,JBH,JB Hi-Fi Limited,Consumer Discretionary,2893910000,0.136
+ASX,JCI,JC Intern Group Limited,Industrials,40467100,0.002
+ASX,JCS,Jcurve Solutions,Information Technology,16392800,0.001
+ASX,JDR,Jadar Lithium Limited,Materials,4036570,0
+ASX,JHC,Japara Healthcare LT,Health Care,368254000,0.017
+ASX,JHG,Janus Henderson Chess Depositary Interests,Financials,2714770000,0.127
+ASX,JHL,JAYEX Healthcare Limited,Health Care,3687490,0
+ASX,JHX,James Hardie Indust Chess Depositary Interests 1:1,Materials,9264880000,0.434
+ASX,JIN,Jumbo Interactive,Consumer Discretionary,452571000,0.021
+ASX,JIP,Jack-in Group Limited Chess Depositary Interests 1:1,Industrials,20113300,0.001
+ASX,JJF,Jiajiafu Mod Agr Limited,Consumer Staples,8518400,0
+ASX,JKA,Jacka Resources Limited,Energy,2304330,0
+ASX,JKL,Justkapital Limited,Financials,10947100,0.001
+ASX,JLG,Johns LYNG Group,Industrials,195293000,0.009
+ASX,JMS,Jupiter Mines,Materials,666057000,0.031
+ASX,JPR,Jupiter Energy,Energy,6135110,0
+ASX,JRL,Jindalee Resources,Materials,9770540,0
+ASX,JRV,Jervois Mining,Materials,68095200,0.003
+ASX,JVG,JV Global Limited,Industrials,2506440,0
+ASX,JYC,Joyce Corporation,Consumer Discretionary,46986700,0.002
+ASX,K2F,K2FLY Limited,Information Technology,11730700,0.001
+ASX,KAI,Kairos Minerals Limited,Materials,27272700,0.001
+ASX,KAM,K2 Asset MGMT Holdings,Financials,26519400,0.001
+ASX,KAR,Karoon Gas Australia,Energy,272750000,0.013
+ASX,KAS,Kasbah Resources,Materials,10450800,0
+ASX,KAT,Katana Capital,,33387100,0.002
+ASX,KBC,Keybridge Capital,Financials,12488400,0.001
+ASX,KCN,Kingsgate Consolid,Materials,48638600,0.002
+ASX,KDR,Kidman Resources Limited,Materials,422474000,0.02
+ASX,KEY,KEY Petroleum,Energy,12126200,0.001
+ASX,KFE,Kogi Iron Limited,Materials,97551500,0.005
+ASX,KGD,Kula Gold Limited,Materials,7513160,0
+ASX,KGL,KGL Resources Limited,Materials,85156600,0.004
+ASX,KGM,Kalnorth Gold Limited,Materials,6259680,0
+ASX,KGN,Kogan.com Limited,Consumer Discretionary,530388000,0.025
+ASX,KII,K2GLOBALEQUITIESFUND Trading Managed Fund Units FP,,16423800,0.001
+ASX,KIK,Kairiki Energy Limited,Energy,2792980,0
+ASX,KIN,KIN Min NL,Materials,32473100,0.002
+ASX,KIS,King Island,Materials,20778400,0.001
+ASX,KKL,Kollakorn Corp Limited,Information Technology,1707460,0
+ASX,KKO,Kinetiko Energy Limited,Energy,5092240,0
+ASX,KKT,Konekt Limited,Health Care,33707800,0.002
+ASX,KLA,Kirkland Lake Gold Cdi 1:1 Foreign Exempt Xtse,Materials,27650000,0.001
+ASX,KLH,Kalia Limited,Energy,12206100,0.001
+ASX,KLL,Kalium Lakes Limited,Materials,48170200,0.002
+ASX,KLO,Kingsland Global Limited Chess Depositary Interests 1:1,Real Estate,70875000,0.003
+ASX,KLR,Kaili Resources Limited 125c,Energy,3930680,0
+ASX,KMD,Kathmandu Hold Limited,Consumer Discretionary,677343000,0.032
+ASX,KME,Kip Mcgrath Edu.CNTR,Consumer Discretionary,28371600,0.001
+ASX,KMT,Kopore Metals Limited,Materials,13564400,0.001
+ASX,KNH,Koon Holdings Chess Depositary Interest 1:1,Industrials,18679900,0.001
+ASX,KNL,Kibaran Resources,Materials,56798900,0.003
+ASX,KNM,Kneomedia Limited,Information Technology,15974700,0.001
+ASX,KNO,Knosys Limited,Information Technology,10564500,0
+ASX,KOR,Korab Resources,Materials,9100680,0
+ASX,KOV,Korvest Limited,Industrials,28401900,0.001
+ASX,KP2,Kore Potash Plc Chess Depositary Interests 1:1,Materials,30284500,0.001
+ASX,KPC,Kazakhstan Corp Limited,Materials,11962900,0.001
+ASX,KPG,Kelly Partners Group,Industrials,58463900,0.003
+ASX,KPL,Kina Petroleum Limited,Energy,27941000,0.001
+ASX,KPO,Kalina Power Limited,Utilities,14192700,0.001
+ASX,KPT,Kangaroo Plantation,Materials,101807000,0.005
+ASX,KRC,King River Copper,Materials,74318300,0.003
+ASX,KRL,Kangaroo Res Limited,Energy,429304000,0.02
+ASX,KRM,Kingsrose Mining Limited,Materials,43070400,0.002
+ASX,KRS,Kresta Holdings,Consumer Discretionary,7212410,0
+ASX,KRX,Koppar Resources,Materials,5663750,0
+ASX,KSC,K & S Corporation,Industrials,186793000,0.009
+ASX,KSL,Kina Securities Limited,Financials,180393000,0.008
+ASX,KSM,K2 Au Small Cap Fund Trading Managed Fund Units FP,,26047200,0.001
+ASX,KSN,Kingston Resources,Materials,30580000,0.001
+ASX,KSS,Kleos Chess Depositary Interests 1:1,Information Technology,9239420,0
+ASX,KTA,Krakatoa Resources,Materials,3525000,0
+ASX,KTD,Keytone Dairy,Consumer Staples,47250000,0.002
+ASX,KTE,K2 Energy Limited,Information Technology,3307230,0
+ASX,KWR,Kingwest Resources,Materials,6418320,0
+ASX,KYK,KYCKR Limited,Information Technology,18115800,0.001
+ASX,KZA,KAZIA Therapeutics,Health Care,20332000,0.001
+ASX,KZR,Kalamazoo Resources,Materials,5152280,0
+ASX,LAA,Latam Autos Limited,Information Technology,86514300,0.004
+ASX,LAM,Laramide Res Limited Chess Depositary Interests 1:1,Energy,311601,0
+ASX,LAU,Lindsay Australia,Industrials,113249000,0.005
+ASX,LBL,Laserbond Limited,Industrials,16287900,0.001
+ASX,LBT,LBT Innovations,Health Care,22102000,0.001
+ASX,LCA,Litigation Cap Limited,Financials,48510800,0.002
+ASX,LCD,Latitude Consolidate,Materials,6053940,0
+ASX,LCE,London City EQU. Limited,Financials,9410580,0
+ASX,LCK,Leigh CRK Energy Limited,Energy,113167000,0.005
+ASX,LCM,Logicamms Limited,Industrials,14366600,0.001
+ASX,LCT,Living Cell Tech,Health Care,17143200,0.001
+ASX,LCY,Legacy Iron Ore,Materials,4404790,0
+ASX,LEG,Legend Mining,Materials,79729700,0.004
+ASX,LEP,Ale Property Group Ordinary/Units FP Stapled Securities,Real Estate,1033660000,0.048
+ASX,LER,Leaf Res Limited,Materials,17562500,0.001
+ASX,LEX,Lefroy Exploration 50c US,Materials,10277300,0
+ASX,LGD,Legend Corporation,Industrials,78020500,0.004
+ASX,LGO,Longreach Oil Limited,Energy,9714670,0
+ASX,LGR,Lanka Graphite Limited,Materials,2276850,0
+ASX,LHB,Lionhub Group Limited,Real Estate,42970200,0.002
+ASX,LHM,Land Homes Group Limited,Real Estate,26234700,0.001
+ASX,LI3,Lcme Limited,Materials,4720730,0
+ASX,LIC,Lifestyle Communit,Real Estate,628316000,0.029
+ASX,LIN,Lindian Resources,Materials,6689580,0
+ASX,LIO,Lion Energy Limited,Energy,5018060,0
+ASX,LIT,Lithium Australia NL,Materials,51031100,0.002
+ASX,LKE,Lake Resources,Materials,28916800,0.001
+ASX,LKO,Lakes Oil NL,Energy,60283800,0.003
+ASX,LLC,Lendlease Group Unit/ Stapled Securities,Real Estate,11290000000,0.529
+ASX,LLO,Lion One Metals Limited Chess Depositary Interests 1:1,Materials,4318230,0
+ASX,LMG,Latrobe Magnesium,Materials,11309400,0.001
+ASX,LML,Lincoln Minerals,Materials,4599870,0
+ASX,LMW,Landmark White Limited,Real Estate,42241000,0.002
+ASX,LNG,Liquefied Natural,Energy,396835000,0.019
+ASX,LNK,Link Admin HLDG,Information Technology,4119840000,0.193
+ASX,LNU,Linius Tech Limited,Information Technology,62852500,0.003
+ASX,LNY,Laneway Res Limited,Materials,10564700,0
+ASX,LOM,Lucapa Diamond Limited,Materials,106547000,0.005
+ASX,LON,Longtable Group Limited,Consumer Staples,51543300,0.002
+ASX,LOV,Lovisa Holdings Limited,Consumer Discretionary,1088390000,0.051
+ASX,LPD,Lepidico Limited,Materials,81903900,0.004
+ASX,LPE,Locality Planning,Utilities,45189700,0.002
+ASX,LPI,Lithium PWR Int Limited,Materials,70878800,0.003
+ASX,LRM,Lustrum Minerals,Energy,3442030,0
+ASX,LRS,Latin Resources Limited,Materials,13234400,0.001
+ASX,LRT,Lowell Res Fund Ordinary Units FP,,15524700,0.001
+ASX,LSA,Lachlan Star Limited,Materials,9800250,0
+ASX,LSF,L1 Long Short Fund,,1096980000,0.051
+ASX,LSH,Lifespot Health Limited,Health Care,3827250,0
+ASX,LSR,Lodestar Minerals,Materials,17981200,0.001
+ASX,LSX,Lion Selection Group,Financials,45040500,0.002
+ASX,LTN,Lantern Hotel Group,Real Estate,3532810,0
+ASX,LTR,Liontown Resources,Materials,28963700,0.001
+ASX,LVE,Love Group Global,Information Technology,3326630,0
+ASX,LVH,Livehire Limited,Information Technology,158798000,0.007
+ASX,LVT,Livetiles Limited,Information Technology,308376000,0.014
+ASX,LWP,LWP Technologies Limited,Energy,84714,0
+ASX,LYC,Lynas Corporation,Materials,1056760000,0.05
+ASX,LYL,Lycopodium Limited,Industrials,166876000,0.008
+ASX,M7T,MACH7 Tech Limited,Health Care,27756200,0.001
+ASX,MA1,Monash Absolute,,41839900,0.002
+ASX,MAG,Magmatic Resrce Limited,Materials,1751860,0
+ASX,MAH,Macmahon Holdings,Materials,560296000,0.026
+ASX,MAI,Mainstream Group,Financials,86405700,0.004
+ASX,MAM,Microequities,Financials,79762800,0.004
+ASX,MAQ,Macquarie Telecom GP,Telecommunication Services,485399000,0.023
+ASX,MAR,Malachite Resources,Materials,4087090,0
+ASX,MAS,Mesa Minerals Limited,Materials,4226500,0
+ASX,MAT,Matsa Resources,Materials,22999300,0.001
+ASX,MAU,Magnetic Resources,Materials,33372400,0.002
+ASX,MAX,Millinium Alt Fund Ordinary Units FP,,7916340,0
+ASX,MAY,Melbana Energy Limited,Energy,30259100,0.001
+ASX,MBK,Metal Bank Limited,Materials,11477200,0.001
+ASX,MBM,Mobecom Limited,Information Technology,12375200,0.001
+ASX,MBO,Mobilarm Limited,Information Technology,996242,0
+ASX,MBT,Mission Newenergy,Energy,1471330,0
+ASX,MCA,Murray Cod Aust Limited,Consumer Staples,66799600,0.003
+ASX,MCE,Matrix C & E Limited,Energy,41718800,0.002
+ASX,MCH,Murchison Holdings,Financials,4265680,0
+ASX,MCM,MC Mining Limited,Energy,47899100,0.002
+ASX,MCP,Mcpherson's Limited,Consumer Discretionary,165538000,0.008
+ASX,MCR,Mincor Resources NL,Materials,83663900,0.004
+ASX,MCT,Metalicity Limited,Materials,10405600,0
+ASX,MCX,Mariner Corp Limited,Financials,535785,0
+ASX,MCY,Mercury NZ Limited Foreign Exempt NZX,Utilities,4208650000,0.197
+ASX,MDC,Medlab Clinical Limited,Health Care,99850400,0.005
+ASX,MDD,Mandalong Resources,Materials,649299,0
+ASX,MDI,Middle Island Res,Materials,9072720,0
+ASX,MDR,Medadvisor Limited,Health Care,52925100,0.002
+ASX,MDX,Mindax Limited,Materials,12366400,0.001
+ASX,MEA,Mcgrath Limited,Real Estate,62135000,0.003
+ASX,MEB,Medibio Limited,Health Care,12360300,0.001
+ASX,MEC,Morphic Eef Limited,Financials,46890700,0.002
+ASX,MED,Merlin Diamonds Limited,Materials,19832700,0.001
+ASX,MEI,Meteoric Resources,Materials,9111290,0
+ASX,MEL,Metgasco Limited,Energy,27342100,0.001
+ASX,MEM,Memphasys Limited,Health Care,4730990,0
+ASX,MEP,Minotaur Exploration,Materials,10820900,0.001
+ASX,MEU,Marmota Limited,Energy,11104300,0.001
+ASX,MEY,Marenica Energy Limited,Energy,5452790,0
+ASX,MEZ,Meridian Energy Foreign Exempt NZX,Utilities,3741130000,0.175
+ASX,MFD,Mayfield Childcr Limited,Consumer Discretionary,27558100,0.001
+ASX,MFF,MFF Capital INV Limited,Financials,1547250000,0.072
+ASX,MFG,Magellan Fin Group Limited,Financials,4881750000,0.229
+ASX,MGC,MG Unit Trust Ordinary Units FP,,69410300,0.003
+ASX,MGE,Mag Global Equities Trading Managed Fund Units FP,,1187040000,0.056
+ASX,MGG,Magellan Glob Trust Ordinary Units FP,,1835730000,0.086
+ASX,MGL,Magontec Limited,Materials,33062100,0.002
+ASX,MGP,Managed Accounts,Financials,65970600,0.003
+ASX,MGR,Mirvac Group Stapled Securities,Real Estate,8956100000,0.42
+ASX,MGT,Magnetite Mines,Materials,8125150,0
+ASX,MGU,Magnum Mining & Exp,Materials,11183200,0.001
+ASX,MGV,Musgrave Minerals,Materials,21582000,0.001
+ASX,MGX,Mount Gibson Iron,Materials,505798000,0.024
+ASX,MGZ,Medigard Limited,Health Care,2841310,0
+ASX,MHC,Manhattan Corp Limited,Energy,8895340,0
+ASX,MHD,Millennium Limited,Consumer Discretionary,6350860,0
+ASX,MHG,Magellan GBL EQ Fund Trading Managed Fund Units FP,,72762500,0.003
+ASX,MHI,Merchant House 1c,Consumer Discretionary,13197300,0.001
+ASX,MHJ,Michael Hill Int,Consumer Discretionary,348695000,0.016
+ASX,MICH,Mag. Infra. Fund CH Trading Managed Fund Units FP,,196699000,0.009
+ASX,MIG,Migme Limited,Information Technology,13910700,0.001
+ASX,MIH,MNC Media Invest Limited Chess Depositary Interests US Prohibited 1,Telecommunication Services,85992600,0.004
+ASX,MIL,Millennium Group Limited,Industrials,34216600,0.002
+ASX,MIN,Mineral Resources,Materials,2984460000,0.14
+ASX,MIR,Mirrabooka Invest,Financials,423021000,0.02
+ASX,MJC,Mejority Capital Limited,Financials,2457240,0
+ASX,MKB,Moko Social Media,Information Technology,4979390,0
+ASX,MKG,Mako Gold,Materials,5861250,0
+ASX,MLD,Maca Limited,Materials,325629000,0.015
+ASX,MLM,Metallica Minerals,Materials,10635600,0
+ASX,MLS,Metals Australia,Materials,7025390,0
+ASX,MLT,Milton Corporation,Financials,3078650000,0.144
+ASX,MLX,Metals X Limited,Materials,406546000,0.019
+ASX,MMG,MMG Limited Cdi 1:10 Foreign Exempt Hkse,Materials,132252000,0.006
+ASX,MMI,Metro Mining Limited,Energy,249157000,0.012
+ASX,MMJ,MMJ Phytotech Limited,Health Care,66743200,0.003
+ASX,MML,Medusa Mining Limited,Materials,77922900,0.004
+ASX,MMM,Marley Spoon Chess Depositary Interests 1000:1,Consumer Discretionary,124954000,0.006
+ASX,MMR,Mec Resources,Energy,4102420,0
+ASX,MMS,Mcmillan Shakespeare,Industrials,1420300000,0.067
+ASX,MNB,Minbos Resources Limited,Materials,5654560,0
+ASX,MNC,Metminco Limited,Materials,3650200,0
+ASX,MND,Monadelphous Group,Industrials,1513260000,0.071
+ASX,MNF,MNF Group Limited,Telecommunication Services,354290000,0.017
+ASX,MNRS,Beta Global Gold ETF Units FP,,4800580,0
+ASX,MNS,Magnis Resource Limited,Materials,198375000,0.009
+ASX,MNW,Mint Payments Limited,Information Technology,18062000,0.001
+ASX,MNY,MONEY3 Corporation,Financials,391333000,0.018
+ASX,MOAT,Vaneck US Wide MOAT ETF Cdis 1:1,,72319200,0.003
+ASX,MOB,Mobilicom Limited,Information Technology,10427500,0
+ASX,MOC,Mortgage Choice Limited,Financials,169997000,0.008
+ASX,MOD,MOD Resources Limited,Materials,92593000,0.004
+ASX,MOE,Moelis Australia Limited,Financials,838263000,0.039
+ASX,MOGL,MOGL (Managed Fund) Trading Managed Units FP,,87782800,0.004
+ASX,MONY,Ubs IQ Cash ETF Units FP,,1001400,0
+ASX,MOQ,MOQ Limited,Information Technology,37103800,0.002
+ASX,MOX,MONAX Mining Limited,Materials,1444930,0
+ASX,MOY,Millennium Min Limited,Materials,178193000,0.008
+ASX,MP1,Megaport Limited,Information Technology,444774000,0.021
+ASX,MPL,Medibank Private Limited,Financials,8014150000,0.375
+ASX,MPO,Molopo Energy Limited,Energy,34865700,0.002
+ASX,MPP,Metro Perf.Glass Limited Foreign Exempt NZX,Materials,134399000,0.006
+ASX,MPW,MSL Solutions Limited,Information Technology,54834800,0.003
+ASX,MPX,Mustera Property Group,Real Estate,29708100,0.001
+ASX,MQG,Macquarie Group Limited,Financials,42901800000,2.01
+ASX,MQR,Marquee Resource Limited,Materials,4240350,0
+ASX,MRC,Mineral Commodities,Materials,84218300,0.004
+ASX,MRD,Mount Ridley Mines,Materials,4564300,0
+ASX,MRG,Murray River Group,Consumer Staples,39548800,0.002
+ASX,MRL,Mayur Resources Limited Chess Depositary Interests 1:1,Materials,59583200,0.003
+ASX,MRM,Mmaoffshor,Industrials,210229000,0.01
+ASX,MRN,MACQ Media Limited,Consumer Discretionary,319775000,0.015
+ASX,MRP,Macphersons Resource,Materials,28433100,0.001
+ASX,MRQ,MRG Metals Limited,Materials,3335850,0
+ASX,MRR,Minrex Resources Limited,Materials,2781330,0
+ASX,MRV,Moreton Resources,Energy,24768900,0.001
+ASX,MSB,Mesoblast Limited,Health Care,1037680000,0.049
+ASX,MSE,Metalsearch Limited,Materials,5770920,0
+ASX,MSG,MCS Services Limited,Industrials,3218260,0
+ASX,MSI,Multistack Internat,Industrials,673824,0
+ASX,MSM,MSM Corporation Intl,Information Technology,4280350,0
+ASX,MSP,Maxsec Group Limited,Information Technology,11296400,0.001
+ASX,MSR,Manas Res Limited,Materials,13215800,0.001
+ASX,MSV,Mitchell Services,Industrials,85180400,0.004
+ASX,MTB,Mount Burgess Mining,Materials,2539080,0
+ASX,MTC,Metalstech Limited,Materials,3984730,0
+ASX,MTH,Mithril Resources,Materials,2003420,0
+ASX,MTL,Manalto Limited,Information Technology,3642390,0
+ASX,MTM,Mareterram Limited,Consumer Staples,37088400,0.002
+ASX,MTO,Motorcycle HLDG,Consumer Discretionary,207335000,0.01
+ASX,MTS,Metcash Limited,Consumer Staples,2727770000,0.128
+ASX,MUA,Mitula Group Limited,Information Technology,139402000,0.007
+ASX,MUS,Mustang Resources,Materials,10341700,0
+ASX,MVA,Vaneck Property ETF Units FP,,125775000,0.006
+ASX,MVB,Vaneck Banks ETF Units FP,,38157600,0.002
+ASX,MVE,Vaneck Midcap ETF Units FP,,94182200,0.004
+ASX,MVF,Monash Ivf Group Limited,Health Care,257961000,0.012
+ASX,MVOL,Ishares Edge Au MVOL ETF Units FP,,2196980,0
+ASX,MVP,Medical Developments,Health Care,273568000,0.013
+ASX,MVR,Vaneck Resources ETF Units FP,,52445600,0.002
+ASX,MVS,Vaneck Small Masters ETF Units FP,,63533600,0.003
+ASX,MVT,Mercantile Invest,Financials,50526000,0.002
+ASX,MVW,Vaneck EQUAL Weight ETF Units FP,,595839000,0.028
+ASX,MWR,MGM Wireless Limited,Information Technology,37068200,0.002
+ASX,MWY,Midway Limited,Materials,226953000,0.011
+ASX,MX1,Micro-X Limited,Health Care,56296800,0.003
+ASX,MXC,MGC Pharmaceuticals,Health Care,58215900,0.003
+ASX,MXI,Maxitrans Industries,Industrials,95314000,0.004
+ASX,MXR,Maximus Resources,Materials,3481400,0
+ASX,MXT,MCP Master Income Ordinary Units FP,,752666000,0.035
+ASX,MYE,Mastermyne Group Limited,Materials,154664000,0.007
+ASX,MYL,Myanmar Metals,Materials,87302700,0.004
+ASX,MYO,Myob Group Limited,Information Technology,1784220000,0.084
+ASX,MYQ,Myfiziq Limited,Information Technology,21872700,0.001
+ASX,MYR,Myer Holdings Limited,Consumer Discretionary,418852000,0.02
+ASX,MYS,Mystate Limited,Financials,436265000,0.02
+ASX,MYX,Mayne Pharma Limited,Health Care,2043970000,0.096
+ASX,MZI,MZI Res Limited,Materials,31040800,0.001
+ASX,MZN,Marindi Metals Limited,Materials,14243700,0.001
+ASX,MZZ,Matador Mining Limited,Materials,16306400,0.001
+ASX,N1H,N1 Holdings Limited,Financials,7747780,0
+ASX,N27,Northern Cobalt,Materials,5076410,0
+ASX,NAB,National Aust. Bank,Financials,76035600000,3.562
+ASX,NAC,Naos Ex-50,,53062300,0.002
+ASX,NAE,New Age Exploration,Energy,5694240,0
+ASX,NAG,Nagambie Resources,Materials,27422200,0.001
+ASX,NAM,Namoi Cotton Limited,Industrials,59021900,0.003
+ASX,NAN,Nanosonics Limited,Health Care,1076090000,0.05
+ASX,NAV,Navigator Resources,Materials,3145790,0
+ASX,NBI,Nbglobcorpincomtrust Ordinary Units FP,,418118000,0.02
+ASX,NBL,Noni B Limited,Consumer Discretionary,336214000,0.016
+ASX,NC6,Nanollose Limited,Health Care,3500000,0
+ASX,NCC,Naos Emerg Opp,,76978900,0.004
+ASX,NCK,Nick Scali Limited,Consumer Discretionary,521640000,0.024
+ASX,NCL,Netccentric Limited Chess Depositary Interests 1:1,Consumer Discretionary,2887500,0
+ASX,NCM,Newcrest Mining,Materials,14901900000,0.698
+ASX,NCR,Nucoal Resources Limited,Materials,9223350,0
+ASX,NCZ,New Century Resource,Materials,498932000,0.023
+ASX,NDQ,BETASHARESNASDAQ100 ETF Units FP,,427073000,0.02
+ASX,NEA,Nearmap Limited,Industrials,761631000,0.036
+ASX,NEC,Nine Entertainment,Consumer Discretionary,1969300000,0.092
+ASX,NES,Nelson Resources,Materials,5543680,0
+ASX,NET,Netlinkz Limited,Information Technology,41150900,0.002
+ASX,NEU,Neuren Pharmaceut,Health Care,123207000,0.006
+ASX,NEW,NEW Energy Solar Stapled Securities,Utilities,505361000,0.024
+ASX,NGE,NGE Capital Limited,,24256600,0.001
+ASX,NGI,Navigator Global Limited,Financials,862627000,0.04
+ASX,NGY,Nuenergy Gas Limited,Energy,56276300,0.003
+ASX,NHC,New Hope Corporation,Energy,3283500000,0.154
+ASX,NHF,Nib Holdings Limited,Financials,2660870000,0.125
+ASX,NHL,Novita Health Limited,Health Care,15276400,0.001
+ASX,NIC,Nickelmineslimited,Materials,340149000,0.016
+ASX,NIO,Nickelore Limited,Materials,8001020,0
+ASX,NIU,Niuminco Group Limited,Materials,5320320,0
+ASX,NKP,Nkwe Platinum 1c US Common Shares FP,Materials,79777000,0.004
+ASX,NLI,Novo Litio Limited,Materials,14913700,0.001
+ASX,NME,NEX Metals Explorat,Materials,953298,0
+ASX,NMI,Northern Mining,Materials,10322900,0
+ASX,NML,Navarre Minerals Limited,Materials,18105500,0.001
+ASX,NMM,Noble Metals Limited,Materials,17402800,0.001
+ASX,NMS,Neptune Marine,Energy,27955800,0.001
+ASX,NMT,Neometals Limited,Materials,141426000,0.007
+ASX,NNW,99 Wuxian Limited Chess Depositary Interests 1:1,Consumer Discretionary,133364000,0.006
+ASX,NOR,Norwood Systems Limited,Information Technology,6637150,0
+ASX,NOV,Novatti Group Limited,Information Technology,35439400,0.002
+ASX,NOX,Noxopharm Limited,Health Care,59067900,0.003
+ASX,NSB,Neuroscientific,Health Care,8371970,0
+ASX,NSC,Naos SMLCAP Com Limited,Financials,134352000,0.006
+ASX,NSE,New Standard Energy,Energy,3940300,0
+ASX,NSR,National Storage Stapled Security FP,Real Estate,1116380000,0.052
+ASX,NST,Northern Star,Materials,5307480000,0.249
+ASX,NSX,NSX Limited,Financials,33278700,0.002
+ASX,NTC,Netcomm Wireless,Information Technology,101699000,0.005
+ASX,NTD,National Tyre&Wheel,,119716000,0.006
+ASX,NTI,Neurotech Intl,Health Care,10870900,0.001
+ASX,NTL,New Talisman Gold,Materials,28138500,0.001
+ASX,NTM,NTM Gold Limited,Materials,11547700,0.001
+ASX,NTU,Northern Min Limited,Materials,88967300,0.004
+ASX,NUF,Nufarm Limited,Materials,2195620000,0.103
+ASX,NUH,Nuheara Limited,Information Technology,73992300,0.003
+ASX,NUS,Nusantara Resources,Materials,17595300,0.001
+ASX,NVA,Nova Minerals Limited,Materials,21073400,0.001
+ASX,NVL,National Veterinary,Health Care,150083000,0.007
+ASX,NVO,Nvoi Limited,Information Technology,3319600,0
+ASX,NVT,Navitas Limited,Consumer Discretionary,1601260000,0.075
+ASX,NVX,Novonix Limited,Materials,73266900,0.003
+ASX,NWC,New World Cobalt Limited,Materials,27509100,0.001
+ASX,NWE,Norwest Energy NL,Energy,10146300,0
+ASX,NWF,Newfield Resources,Materials,75568900,0.004
+ASX,NWH,NRW Holdings Limited,Industrials,776508000,0.036
+ASX,NWL,Netwealth Group,Financials,1880050000,0.088
+ASX,NWS,News Corp Class B Voting Common Stock-Cdi,Consumer Discretionary,1023960000,0.048
+ASX,NWSLV,News Corp Class A Non-Voting Common Stock-Cdi,Consumer Discretionary,302688000,0.014
+ASX,NXM,Nexus Minerals Limited,Materials,4960120,0
+ASX,NXR,NEMEX Resources Limited,Materials,4918510,0
+ASX,NXT,NEXTDC Limited,Information Technology,2233760000,0.105
+ASX,NZC,NZURI Copper Limited,Materials,94689800,0.004
+ASX,NZK,NZK Salmon Limited Foreign Exempt NZX,Consumer Staples,340649000,0.016
+ASX,NZM,NZME Limited Foreign Exempt NZX,Consumer Discretionary,121527000,0.006
+ASX,OAR,Oakdale Resource Limited,Materials,1167080,0
+ASX,OBJ,OBJ Limited,Health Care,41617600,0.002
+ASX,OCA,Oceania Healthc Limited Foreign Exempt NZX,Health Care,683485000,0.032
+ASX,OCC,Orthocell Limited,Health Care,24470100,0.001
+ASX,OCL,Objective Corp,Information Technology,260467000,0.012
+ASX,OCP,Oceania Capital Limited,Financials,73634000,0.003
+ASX,ODA,Orcoda Limited,Information Technology,17895200,0.001
+ASX,ODM,Odin Metals Limited,Materials,26900900,0.001
+ASX,ODY,Odyssey Energy,Energy,18014200,0.001
+ASX,OEC,Orbital Corp Limited,Industrials,38297800,0.002
+ASX,OEL,Otto Energy Limited,Energy,132807000,0.006
+ASX,OEQ,Orion Equities,Financials,2850300,0
+ASX,OEX,OILEX Limited,Energy,8639450,0
+ASX,OFX,OFX Group Limited,Financials,552952000,0.026
+ASX,OGA,Ocean Grown Abalone,Consumer Staples,27784400,0.001
+ASX,OGC,Oceanagold Corp Chess Depositary Interest 1:1,Materials,2552370000,0.12
+ASX,OGX,Orinoco Gold Limited,Materials,30279100,0.001
+ASX,OHE,Orion Health Group Foreign Exempt NZX,Health Care,191083000,0.009
+ASX,OIL,Optiscan Imaging,Health Care,26826100,0.001
+ASX,OKJ,Oakajee Corp Limited,Financials,4256990,0
+ASX,OKR,Okapi Resources,Materials,5528570,0
+ASX,OKU,Oklo Resources Limited,Materials,93467200,0.004
+ASX,OLH,Oldfields Holdings,Industrials,5752330,0
+ASX,OLI,Oliver's Real Food,Consumer Discretionary,21340900,0.001
+ASX,OLV,Otherlevels Holdings,Information Technology,8133720,0
+ASX,OMH,Om Holdings Limited 10c,Materials,1126400000,0.053
+ASX,OML,Ooh!Media Limited,Consumer Discretionary,1213970000,0.057
+ASX,OMN,Onemarket,Information Technology,101357000,0.005
+ASX,ONE,Oneview Healthcare Chess Depositary Interests 1:1,Health Care,93744000,0.004
+ASX,ONT,1300 Smiles Limited,Health Care,151542000,0.007
+ASX,ONX,Orminexltd,Materials,69914700,0.003
+ASX,OOK,Ookami Limited,Information Technology,6554790,0
+ASX,OOO,Betasharescrudeoil ETF Units FP,,30350000,0.001
+ASX,OPG,Opus Group Limited,Industrials,58276900,0.003
+ASX,OPN,Opendna Limited,Industrials,2253630,0
+ASX,OPT,Opthea Limited,Health Care,120736000,0.006
+ASX,ORA,Orora Limited,Materials,4006190000,0.188
+ASX,ORE,Orocobre Limited,Materials,1103150000,0.052
+ASX,ORG,Origin Energy,Energy,14533000000,0.681
+ASX,ORH,ORH Limited,Industrials,1318940,0
+ASX,ORI,Orica Limited,Materials,6458030000,0.303
+ASX,ORM,Orion Metals Limited,Materials,8901950,0
+ASX,ORN,Orion Minerals Limited,Materials,58085700,0.003
+ASX,ORR,Orecorp Limited,Materials,53021100,0.002
+ASX,OSH,Oil Search Limited 10 Toea,Energy,13758400000,0.645
+ASX,OSL,Oncosil Medical,Health Care,124832000,0.006
+ASX,OSP,Osprey Med Inc Chess Depositary Interests 2:1 US Prohibited,Health Care,75370800,0.004
+ASX,OTR,Onterran Limited,Industrials,19960800,0.001
+ASX,OTW,Over the Wire Limited,Information Technology,206587000,0.01
+ASX,OVH,Onevue Holdings Limited,Financials,195610000,0.009
+ASX,OVL,Oro Verde Limited,Materials,6222710,0
+ASX,OVN,Oventus Medical Limited,Health Care,31781800,0.001
+ASX,OXX,Octanex Limited,Energy,4908830,0
+ASX,OZF,SPDR 200 Financials ETF Units FP,,64651100,0.003
+ASX,OZG,Ozgrowth Limited,,62375300,0.003
+ASX,OZL,OZ Minerals,Materials,3012660000,0.141
+ASX,OZR,SPDR 200 Resources ETF Units FP,,77235200,0.004
+ASX,P2P,P2P Transport,,65743800,0.003
+ASX,PAA,Pharmaust Limited,Health Care,6964320,0
+ASX,PAB,PATRYS Limited,Health Care,40679500,0.002
+ASX,PAC,Pacific Group Limited,Financials,308723000,0.014
+ASX,PAF,PM Capital Asian Ops,,65324100,0.003
+ASX,PAI,Platinum Asia Limited,,431794000,0.02
+ASX,PAK,Pacific American,Materials,8926520,0
+ASX,PAN,Panoramic Resources,Materials,271990000,0.013
+ASX,PAR,Paradigm Bio,Health Care,114277000,0.005
+ASX,PAXX,Platinum Asia Fund Trading Managed Units FP,,110856000,0.005
+ASX,PBP,Probiotec Limited,Health Care,93190900,0.004
+ASX,PBT,Prana Biotechnology,Health Care,23089900,0.001
+ASX,PBX,Pacific Bauxite Limited,Materials,6742440,0
+ASX,PC1,Plus Connect Limited,Consumer Discretionary,8310860,0
+ASX,PCG,Pengana Capital,Financials,323417000,0.015
+ASX,PCH,Property Connect,Information Technology,1201940,0
+ASX,PCK,Painchek Limited,Health Care,32105100,0.002
+ASX,PCL,Pancontinental Oil,Energy,10813400,0.001
+ASX,PDF,Pacific Dairies,Consumer Staples,8860420,0
+ASX,PDI,Predictive Disc Limited,Materials,3305990,0
+ASX,PDL,Pendal Group Limited,Financials,2795280000,0.131
+ASX,PDN,Paladin Energy Limited,Energy,342603000,0.016
+ASX,PDZ,Prairie Mining Limited,Materials,102953000,0.005
+ASX,PEA,Pacific Energy,Utilities,233763000,0.011
+ASX,PEC,Perpetual Res Limited,Materials,7137610,0
+ASX,PEK,Peak Resources,Materials,27171200,0.001
+ASX,PEL,Pelican Resources,Materials,5790780,0
+ASX,PEN,Peninsula Energy Limited,Energy,64038200,0.003
+ASX,PET,Phoslock ENV Tec Limited,Industrials,221250000,0.01
+ASX,PEX,Peel Mining Limited,Materials,75713000,0.004
+ASX,PFG,Prime Financial,Financials,22912500,0.001
+ASX,PFP,Propel Funeral,Consumer Discretionary,270930000,0.013
+ASX,PG1,Pearl Global Limited,Industrials,14553100,0.001
+ASX,PGC,Paragon Care Limited,Health Care,220597000,0.01
+ASX,PGF,PM Capital Fund,,454428000,0.021
+ASX,PGH,Pact Group Holdings Limited,Materials,1236840000,0.058
+ASX,PGI,Panterra Gold Limited,Materials,4545180,0
+ASX,PGM,Platina Resources,Materials,24299600,0.001
+ASX,PGR,The Pas Group Limited,Consumer Discretionary,40323800,0.002
+ASX,PGS,Planet Gas Limited,Energy,1612870,0
+ASX,PGX,Primero Group,Industrials,62712600,0.003
+ASX,PGY,Pilot Energy Limited,Energy,1589410,0
+ASX,PHI,Phileo Australia,Real Estate,377498000,0.018
+ASX,PIA,Pengana Int EQU Limited,Financials,286097000,0.013
+ASX,PIC,Perpetual Equity Limited,,295154000,0.014
+ASX,PIL,Peppermint INV Limited,Information Technology,18688100,0.001
+ASX,PIO,Pioneer Res Limited,Materials,29082200,0.001
+ASX,PIQ,Proteomics Int Lab,Health Care,18823200,0.001
+ASX,PIXX,Platinum Int Fund Trading Managed Fund Units FP,,244696000,0.011
+ASX,PKA,Plukka Limited,Financials,2041040,0
+ASX,PKD,Parkd Limited,Industrials,6630000,0
+ASX,PKO,Peako Limited,Energy,864248,0
+ASX,PL8,Plato Inc MAX Limited,,304035000,0.014
+ASX,PLC,PLC Financial,Financials,2089240,0
+ASX,PLG,Propertylink Group Stapled Securities US Prohibited,Real Estate,672100000,0.031
+ASX,PLL,Piedmont Lithium Limited,Materials,86680700,0.004
+ASX,PLS,Pilbara Min Limited,Materials,1570060000,0.074
+ASX,PLUS,Vaneck Au Corp Bond ETF Units FP,,209765000,0.01
+ASX,PLX,Pyrolyx AG Chess Depositary Interests 15:1,Materials,71121000,0.003
+ASX,PM1,Pure Minerals Limited,Materials,3924430,0
+ASX,PM8,Pensana Metals Limited,Materials,13776800,0.001
+ASX,PMC,Platinum Capital Limited,Financials,535569000,0.025
+ASX,PME,Pro Medicus Limited,Health Care,1291060000,0.06
+ASX,PMGOLD,Gold Corp 0.00 ZAU Call STR.Prod,,5291890000,0.248
+ASX,PMP,PMP Limited,Industrials,96934900,0.005
+ASX,PMV,Premier Investments,Consumer Discretionary,2924850000,0.137
+ASX,PMY,Pacifico Min Limited,Materials,5531980,0
+ASX,PNC,Pioneer Credit Limited,Financials,203701000,0.01
+ASX,PNI,Pinnacle Investment,Financials,1421410000,0.067
+ASX,PNL,Paringa Resources,Energy,95421100,0.004
+ASX,PNN,Pepinnini Lithium,Materials,4320390,0
+ASX,PNR,Pantoro Limited,Materials,149608000,0.007
+ASX,PNV,Polynovo Limited,Health Care,394853000,0.018
+ASX,PNW,Pacific Star Network,Consumer Discretionary,69607000,0.003
+ASX,PNX,PNX Metals Limited,Materials,10821400,0.001
+ASX,PO3,Purifloh Limited,Utilities,14190600,0.001
+ASX,POD,Podium Minerals,Materials,4045250,0
+ASX,POH,Phosphagenics Limited,Health Care,36281500,0.002
+ASX,POS,Poseidon Nick Limited,Materials,139804000,0.007
+ASX,POU,Betashares Pound ETF ETF Units FP,,21299500,0.001
+ASX,POW,Protean Energy Limited,Industrials,8216430,0
+ASX,POZ,POZ Minerals Limited,Materials,11640200,0.001
+ASX,PPC,Peet Limited,Real Estate,575727000,0.027
+ASX,PPE,Peopleinfrastructure,Industrials,136568000,0.006
+ASX,PPG,Pro-Pac Packaging,Materials,172719000,0.008
+ASX,PPH,Pushpay Holdings Limited Foreign Exempt NZX,Information Technology,1038230000,0.049
+ASX,PPK,PPK Group Limited,Industrials,19218900,0.001
+ASX,PPL,Pureprofile Limited,Information Technology,15062000,0.001
+ASX,PPS,Praemium Limited,Information Technology,444520000,0.021
+ASX,PPT,Perpetual Limited,Financials,1982670000,0.093
+ASX,PPY,Papyrus Australia,Materials,1583050,0
+ASX,PRL,Petrel Energy Limited,Energy,4798880,0
+ASX,PRO,Prophecy Internation,Information Technology,25924000,0.001
+ASX,PRT,Prime Media Group Limited,Consumer Discretionary,87919300,0.004
+ASX,PRU,Perseus Mining Limited,Materials,393266000,0.018
+ASX,PRX,Prodigy Gold NL,Materials,37026100,0.002
+ASX,PRY,Primary Health Care,Health Care,1891200000,0.089
+ASX,PRZ,Parazero Limited,Information Technology,7306000,0
+ASX,PSA,Petsec Energy,Energy,40030600,0.002
+ASX,PSC,Prospect Res Limited,Materials,59433400,0.003
+ASX,PSI,PSC Insurance Limited,Financials,716425000,0.034
+ASX,PSM,Peninsula Mines Limited,Materials,5587260,0
+ASX,PSQ,Pacific Smiles Group,Health Care,244709000,0.011
+ASX,PSY,Panorama Synergy Limited,Information Technology,23092600,0.001
+ASX,PSZ,PS&C Limited,Industrials,29615600,0.001
+ASX,PTB,PTB Group Limited,Industrials,42535700,0.002
+ASX,PTL,Pental Limited,Consumer Staples,40193900,0.002
+ASX,PTM,Platinum Asset,Financials,3144600000,0.147
+ASX,PTR,Petratherm Limited,Utilities,6790070,0
+ASX,PTX,Prescient Limited,Health Care,16526900,0.001
+ASX,PUN,Pegasus Metals,Materials,2025370,0
+ASX,PUR,Pursuit Minerals,Materials,3217700,0
+ASX,PVD,Pura Vida Energy NL,Energy,13330700,0.001
+ASX,PVE,Po Valley Energy Limited,Energy,27290000,0.001
+ASX,PVL,Powerhouse Ven Limited,Industrials,4468400,0
+ASX,PVS,Pivotal Systems Chess Depositary Interests 1:1 US Prohibited,Information Technology,199766000,0.009
+ASX,PWH,PWR Holdings Limited,Consumer Discretionary,320000000,0.015
+ASX,PWN,Parkway Minls NL,Materials,3568890,0
+ASX,PWNCA,Parkway Minls NL Ordinary Partly Paid to 0.1c 4.9c,Materials,123300,0
+ASX,PXS,Pharmaxis Limited,Health Care,122150000,0.006
+ASX,PXX,Polarx Limited,Materials,24151800,0.001
+ASX,PYC,Phylogica Limited,Health Care,70835700,0.003
+ASX,PYG,Paygroup Limited,Information Technology,38236900,0.002
+ASX,PZC,Pan Asia Corp Limited,Energy,1382100,0
+ASX,QAG,Betaagriculture ETF Units FP,,3108880,0
+ASX,QAN,Qantas Airways,Industrials,9882080000,0.463
+ASX,QAU,Betashares Gold ETF ETF Units FP,,58733400,0.003
+ASX,QBE,QBE Insurance Group,Financials,14960300000,0.701
+ASX,QBL,Queensland Bauxite,Materials,58972500,0.003
+ASX,QCB,Betacommodities ETF Units FP,,10159300,0
+ASX,QFN,Betashares ASX Fin ETF Units FP,,21656700,0.001
+ASX,QFY,Quantify Tech Limited,Information Technology,7715690,0
+ASX,QGL,Quantum Graphite,Materials,588156,0
+ASX,QHL,Quickstep Holdings,Industrials,47282000,0.002
+ASX,QIN,Quintis Limited,Materials,115136000,0.005
+ASX,QIP,QANTM Intellectual,Industrials,177623000,0.008
+ASX,QMIX,SPDR MSCI World QMIX ETF Units FP,,9115060,0
+ASX,QMS,QMS Media Limited,Consumer Discretionary,335565000,0.016
+ASX,QOZ,Betasharesrafiaus ETF Units FP,,217837000,0.01
+ASX,QPON,Betaausbanksnrfrbetf ETF Units FP,,272255000,0.013
+ASX,QRE,Betashares ASX Res ETF Units FP,,67191100,0.003
+ASX,QSS,Questus Limited,Financials,2410400,0
+ASX,QST,QUEST Investments,Financials,11795400,0.001
+ASX,QTG,Q Technology Group Limited,Information Technology,1848690,0
+ASX,QTM,Quantum Energy,Consumer Discretionary,26957700,0.001
+ASX,QUAL,Vaneck WLD Xau QUAL ETF Units FP,,451355000,0.021
+ASX,QUB,QUBE Holdings Limited,Industrials,4381620000,0.205
+ASX,QUE,Queste Communication,Financials,2217470,0
+ASX,QUS,Betashares US 1000 ETF Units FP,,43342100,0.002
+ASX,QVE,QV Equities Limited,,319622000,0.015
+ASX,R3D,R3D Global Limited,Consumer Discretionary,288029,0
+ASX,RAC,Race Oncology Limited,Health Care,7337400,0
+ASX,RAF,Raffles Capital Limited,Financials,992676,0
+ASX,RAN,Range International,Materials,10253800,0
+ASX,RAP,Resapp Health Limited,Health Care,145557000,0.007
+ASX,RARI,Russaustrespinvetf ETF Units FP,,78169600,0.004
+ASX,RAW,Rawson Oil & Gas Limited,Energy,3157120,0
+ASX,RBD,Restaurant Brands NZ Foreign Exempt NZX,Consumer Discretionary,869420000,0.041
+ASX,RBL,Redbubble Limited,Consumer Discretionary,357739000,0.017
+ASX,RBO,Robo 3D Limited,Industrials,11238900,0.001
+ASX,RBR,RBR Group Limited,Materials,5597890,0
+ASX,RBTZ,Beta Robotics & Ai ETF Units FP,,2044000,0
+ASX,RBX,Resource Base,Materials,934707,0
+ASX,RCB,Russaustcorpbondetf ETF Units FP,,174901000,0.008
+ASX,RCE,Recce Pharmaceutical,Health Care,15634900,0.001
+ASX,RCL,Readcloud,Information Technology,17789700,0.001
+ASX,RCO,Royalco Resources,Materials,10015700,0
+ASX,RCP,Redbank Copper Limited,Materials,2573380,0
+ASX,RCR,RCR Tomlinson,Industrials,285565000,0.013
+ASX,RCT,Reef Casino Trust Units FP,Consumer Discretionary,150617000,0.007
+ASX,RCW,Rightcrowd,Information Technology,24960000,0.001
+ASX,RD1,Registry Direct,Information Technology,1890100,0
+ASX,RDF,Redflex Holdings,Information Technology,67331800,0.003
+ASX,RDG,Res DEV Group Limited,Materials,14522300,0.001
+ASX,RDH,Redhill Education,Consumer Discretionary,107634000,0.005
+ASX,RDM,Red Metal Limited,Materials,23131200,0.001
+ASX,RDN,Raiden Resources Limited,Materials,3840600,0
+ASX,RDS,Redstone Resources,Materials,6458880,0
+ASX,RDV,Russell High DIV ETF ETF Units FP,,280073000,0.013
+ASX,REA,REA Group,Information Technology,11318200000,0.53
+ASX,RED,RED 5 Limited,Materials,75761600,0.004
+ASX,REF,Reverse Corp Limited,Telecommunication Services,2321510,0
+ASX,REG,Regis Healthcare Limited,Health Care,868889000,0.041
+ASX,REH,Reece Limited,Industrials,6354120000,0.298
+ASX,REL,Raven Energy Limited,Energy,20771300,0.001
+ASX,RENT,Ampcap Global Prop Trading Managed Fund Units FP,,15760200,0.001
+ASX,RES,Resource Generation,Energy,48254600,0.002
+ASX,REV,Real Estate Investar,Information Technology,1515830,0
+ASX,REX,Regional Express,Industrials,175145000,0.008
+ASX,REY,REY Resources Limited,Energy,63715600,0.003
+ASX,REZ,Resourc & En Group Limited,Materials,10305100,0
+ASX,RFF,Rural Funds Group Stapled Securities FP,Real Estate,725300000,0.034
+ASX,RFG,Retail Food Group,Consumer Discretionary,86804100,0.004
+ASX,RFN,Reffind Limited,Information Technology,4124000,0
+ASX,RFR,Rafaella Resources,Materials,4781460,0
+ASX,RFT,Rectifier Technolog,Industrials,39617000,0.002
+ASX,RFX,Redflow Limited,Industrials,52013500,0.002
+ASX,RGB,Russaustgovtbondetf ETF Units FP,,60446700,0.003
+ASX,RGI,Roto-Gro Intl Limited,Industrials,33096200,0.002
+ASX,RGL,Riversgold,Materials,4311150,0
+ASX,RGP,Refresh Group,Consumer Staples,6005500,0
+ASX,RGS,Regeneus Limited,Health Care,39688200,0.002
+ASX,RHC,Ramsay Health Care,Health Care,11100300000,0.52
+ASX,RHI,Red Hill Iron,Materials,21833200,0.001
+ASX,RHL,Ruralco Holdings,Consumer Discretionary,305402000,0.014
+ASX,RHP,Rhipe Limited,Information Technology,161801000,0.008
+ASX,RHT,Resonance Health,Health Care,10464900,0
+ASX,RHY,RHYTHM Biosciences,Health Care,9337500,0
+ASX,RIC,Ridley Corporation,Consumer Staples,469421000,0.022
+ASX,RIE,Riedel Resources Limited,Materials,12542100,0.001
+ASX,RIM,Rimfire Pacific,Materials,12265200,0.001
+ASX,RINC,Beta LM Real Income Trading Managed Units FP,,12242100,0.001
+ASX,RIO,RIO Tinto Limited,Materials,32481800000,1.522
+ASX,RKN,Reckon Limited,Information Technology,96300600,0.005
+ASX,RLC,Reedy Lagoon Corp,Materials,3822720,0
+ASX,RLE,Real Energy Corp,Energy,27446500,0.001
+ASX,RMD,Resmed Inc Cdi 10:1 Foreign Exempt NYSE,Health Care,22643300000,1.061
+ASX,RMG,RMG Limited,Materials,12050600,0.001
+ASX,RMI,Resource Mining Corp,Materials,2962670,0
+ASX,RMP,Red Emperor Resource,Energy,25517600,0.001
+ASX,RMS,Ramelius Resources,Materials,253684000,0.012
+ASX,RMT,Rma Energy Limited,Materials,2100240,0
+ASX,RMX,Red Mount Min Limited,Materials,4746260,0
+ASX,RMY,Rma Global,Information Technology,32652500,0.002
+ASX,RND,Rand Mining Limited,Materials,135936000,0.006
+ASX,RNE,Renu Energy Limited,Utilities,9652710,0
+ASX,RNL,Rision Limited,Information Technology,4147640,0
+ASX,RNO,Rhinomed Limited,Health Care,33536300,0.002
+ASX,RNT,Rent.com.Au Limited,Information Technology,16071100,0.001
+ASX,RNU,Renascor Res Limited,Energy,17258900,0.001
+ASX,RNX,Renegade Exploration,Materials,2850510,0
+ASX,RNY,RNY Property Trust Units FP,Real Estate,1580480,0
+ASX,ROBO,ETFs GLB ROBO ETF Units FP,,128461000,0.006
+ASX,ROG,Red Sky Energy,Energy,1646420,0
+ASX,ROO,Roots Sustainable Chess Depositary Interests 1:1,Industrials,9087170,0
+ASX,RPG,Raptis Group Limited,Real Estate,4444040,0
+ASX,RRL,Regis Resources,Materials,1886550000,0.088
+ASX,RRP,Realm Resources Limited,Materials,21498700,0.001
+ASX,RRS,Range Resources Limited,Energy,17009800,0.001
+ASX,RSG,Resolute Mining,Materials,821901000,0.039
+ASX,RSH,Respiri Limited,Health Care,43077900,0.002
+ASX,RSM,Russausemigovbondetf ETF Units FP,,61336200,0.003
+ASX,RTE,Retech Technology Co. Limited Cdi 1:1,Consumer Discretionary,110760000,0.005
+ASX,RTG,RTG Mining Inc Chess Depositary Interests 1:1,Materials,43567700,0.002
+ASX,RTR,Rumble Res Limited,Materials,18922500,0.001
+ASX,RUB,Rubicor Group,Industrials,4380910,0
+ASX,RUL,Rpmglobal Holdings Limited,Information Technology,146905000,0.007
+ASX,RVA,Reva Medical Inc Cdi 10:1,Health Care,245413000,0.011
+ASX,RVR,Red River Resources,Materials,100436000,0.005
+ASX,RWC,Reliance Worldwide,Industrials,4084790000,0.191
+ASX,RWD,Reward Minerals Limited,Materials,21482900,0.001
+ASX,RXH,Rewardle Holding Limited,Information Technology,2373720,0
+ASX,RXL,ROX Resources,Materials,15105400,0.001
+ASX,RXM,REX Minerals Limited,Materials,27192200,0.001
+ASX,RXP,RXP Services Limited,Information Technology,74910200,0.004
+ASX,RYD,Ryder Capital Limited,,51271800,0.002
+ASX,RZI,RAIZ Invest Limited,Financials,21275400,0.001
+ASX,S2R,S2 Resources,Materials,24791500,0.001
+ASX,S32,SOUTH32 Limited,Materials,20067400000,0.94
+ASX,S3R,Serpentine Tech Limited,Information Technology,2166290,0
+ASX,S66,Star Combo,Consumer Staples,66826600,0.003
+ASX,SAM,SIV Asset MGMT Limited,Financials,937489,0
+ASX,SAN,Sagalio Energy Limited,Materials,1023300,0
+ASX,SAR,Saracen Mineral,Materials,1529760000,0.072
+ASX,SAS,Sky and Space Global,Telecommunication Services,116294000,0.005
+ASX,SAU,Southern Gold,Materials,8465700,0
+ASX,SAY,STH American Cor Limited,Materials,1832990,0
+ASX,SBB,Sunbridge Group Limited,Consumer Discretionary,5660860,0
+ASX,SBI,Sterling Plantations,Consumer Staples,1235000,0
+ASX,SBM,ST Barbara Limited,Materials,1816600000,0.085
+ASX,SBR,Sabre Resources,Materials,4110040,0
+ASX,SBU,Siburan Res Limited,Materials,2093500,0
+ASX,SCG,Scentre Group Stapled Securities,Real Estate,21108500000,0.989
+ASX,SCI,Silver City Minerals,Materials,6155260,0
+ASX,SCL,Schrole Group Limited,Information Technology,5906190,0
+ASX,SCO,Scott Pac Group Limited,Financials,601308000,0.028
+ASX,SCP,Sca Property Group Units FP Stapled Securities,Real Estate,1809590000,0.085
+ASX,SCT,Scout Security Limited,Consumer Discretionary,22759600,0.001
+ASX,SCU,Stemcell United Limited,Health Care,12833600,0.001
+ASX,SDA,Speedcast Int Limited,Telecommunication Services,960101000,0.045
+ASX,SDF,Steadfast Group Limited,Financials,2260150000,0.106
+ASX,SDG,Sunland Group Limited,Real Estate,239590000,0.011
+ASX,SDI,SDI Limited,Health Care,70130700,0.003
+ASX,SDL,Sundance Resources,Materials,41566700,0.002
+ASX,SDV,Scidev Limited,Materials,6381520,0
+ASX,SDX,Sienna Cancer,Health Care,20651800,0.001
+ASX,SE1,Sensera Limited,Information Technology,25238500,0.001
+ASX,SEA,Sundance Energy,Energy,556813000,0.026
+ASX,SEC,Spheria Emerging Co,,121729000,0.006
+ASX,SEI,Speciality Metalint,Materials,9432900,0
+ASX,SEK,Seek Limited,Industrials,7289580000,0.341
+ASX,SEN,Senetas Corporation,Information Technology,108131000,0.005
+ASX,SEQ,Sequoia Fin Group Limited,Financials,38925800,0.002
+ASX,SER,Strategic Energy,Materials,3536000,0
+ASX,SES,Secos Group Limited,Materials,17028400,0.001
+ASX,SFC,Schaffer Corp. Limited,Consumer Discretionary,214452000,0.01
+ASX,SFG,Seafarms Group Limited,Consumer Staples,250072000,0.012
+ASX,SFH,Specialty Fashion,Consumer Discretionary,254713000,0.012
+ASX,SFI,Spookfish Limited,Information Technology,108028000,0.005
+ASX,SFL,Spring FG Limited,Financials,4277730,0
+ASX,SFM,Santa Fe Minerals,Materials,8230410,0
+ASX,SFR,Sandfire Resources,Materials,1185520000,0.056
+ASX,SFX,Sheffield Res Limited,Materials,260415000,0.012
+ASX,SFY,SPDR 50 Fund ETF Units FP,,519175000,0.024
+ASX,SGC,Sacgasco Limited,Energy,7218150,0
+ASX,SGF,SG Fleet Group Limited,Industrials,970724000,0.045
+ASX,SGH,Slater & Gordon,Consumer Discretionary,191200000,0.009
+ASX,SGM,Sims Metal MGMT Limited,Materials,2584290000,0.121
+ASX,SGO,Stream Group Limited,Information Technology,3422870,0
+ASX,SGP,Stockland Units/ Stapled Securities,Real Estate,10103000000,0.473
+ASX,SGQ,ST George Min Limited,Materials,35773900,0.002
+ASX,SGR,The Star Ent Group,Consumer Discretionary,4760910000,0.223
+ASX,SGU,Success Global Media,Consumer Discretionary,5708420,0
+ASX,SHH,Shree Minerals Limited,Materials,3981160,0
+ASX,SHI,Shine Metals Limited,Industrials,1951060,0
+ASX,SHJ,Shine Corporate,Consumer Discretionary,147188000,0.007
+ASX,SHK,Stone Resources Aus,Materials,2408630,0
+ASX,SHL,Sonic Healthcare,Health Care,10613200000,0.497
+ASX,SHM,Shriro Holdings Limited,Consumer Discretionary,99366400,0.005
+ASX,SHO,Sportshero Limited,Information Technology,25492900,0.001
+ASX,SHU,Shenhua Limited,Consumer Discretionary,17620000,0.001
+ASX,SHV,Select Harvests,Consumer Staples,506604000,0.024
+ASX,SI6,SIX Sigma Metals Limited,Materials,4117530,0
+ASX,SIG,Sigma Health Limited,Health Care,667479000,0.031
+ASX,SIH,Sihayo Gold Limited,Materials,29668200,0.001
+ASX,SIL,Smiles Inclusive,Health Care,39435900,0.002
+ASX,SIO,Simonds Group Limited,Consumer Discretionary,62571100,0.003
+ASX,SIQ,Smartgrp Corporation,Industrials,1559900000,0.073
+ASX,SIS,Simble Solutions,Information Technology,12623100,0.001
+ASX,SIT,Site Group Int Limited,Consumer Discretionary,17873300,0.001
+ASX,SIV,Silver Chef Limited,Industrials,82069900,0.004
+ASX,SIX,Sprintex Limited,Consumer Discretionary,9500000,0
+ASX,SKC,Skycity Ent Group Limited Foreign Exempt NZX,Consumer Discretionary,2408650000,0.113
+ASX,SKF,SKYFII Limited,Information Technology,54675300,0.003
+ASX,SKI,Spark Infrastructure Stapled $0.65 Loan Note and Unit US Prohib,Utilities,3767700000,0.176
+ASX,SKN,Skin Elements Limited,Consumer Staples,3741980,0
+ASX,SKO,Serko Foreign Exempt NZX,Information Technology,253099000,0.012
+ASX,SKP,Skyland Pet Group Chess Depositary Interests 1:1,Energy,18666700,0.001
+ASX,SKT,Sky Network,Consumer Discretionary,782171000,0.037
+ASX,SL1,SYMBOL Mining Limited,Materials,8953690,0
+ASX,SLC,Superloop Limited,Telecommunication Services,507485000,0.024
+ASX,SLF,SPDR S&P/ASX Prop Fu ETF Units FP,,556336000,0.026
+ASX,SLK,Sealink Travel Group,Consumer Discretionary,435285000,0.02
+ASX,SLM,Salmat Limited,Industrials,109815000,0.005
+ASX,SLR,Silver Lake Resource,Materials,261578000,0.012
+ASX,SLX,SILEX Systems,Information Technology,40912200,0.002
+ASX,SLZ,Sultan Resources Limited,Materials,5070000,0
+ASX,SM1,Synlait Milk Limited Foreign Exempt NZX,Consumer Staples,1781480000,0.083
+ASX,SM8,Smart Marine Systems,Information Technology,2556140,0
+ASX,SMC,Strategic Minerals,Materials,26591100,0.001
+ASX,SMD,Syndicated Metals,Materials,4448450,0
+ASX,SMG,Soon Mining,Materials,31644600,0.001
+ASX,SMI,Santana Minerals Limited,Materials,3863330,0
+ASX,SMLL,Betasmallcompanies Trading Managed Units FP,,23390000,0.001
+ASX,SMM,Summit Resources,Energy,38146800,0.002
+ASX,SMN,Structural Monitor Chess Depositary Interests 1:1,Information Technology,129106000,0.006
+ASX,SMP,Smartpay Holdings Foreign Exempt NZX,Information Technology,27480400,0.001
+ASX,SMR,Stanmore Coal Limited,Energy,221585000,0.01
+ASX,SNC,Sandon Capital Limited,,46982400,0.002
+ASX,SND,Saunders Intl Limited,Industrials,43661300,0.002
+ASX,SNL,Supply Network,Consumer Discretionary,169568000,0.008
+ASX,SNS,Sensen Networks Limited,Information Technology,26121000,0.001
+ASX,SNV,Sinovus Mining Limited,Materials,643915,0
+ASX,SNZ,Summerset Group Holdings Foreign Exempt NZX,Health Care,1577910000,0.074
+ASX,SO4,Salt Lake Potash Limited,Materials,78772300,0.004
+ASX,SOL,Soul Pattinson (W.H),Energy,6214700000,0.291
+ASX,SOM,Somnomed Limited,Health Care,117258000,0.005
+ASX,SOP,Synertec Corporation,Industrials,10373000,0
+ASX,SOR,Strategic Elements,Financials,8496130,0
+ASX,SP3,Specturltd,Information Technology,11127400,0.001
+ASX,SPB,South Pacific Res,Energy,827577,0
+ASX,SPI,Spitfire Mat Limited,Materials,37174800,0.002
+ASX,SPK,Spark New Zealand Foreign Exempt NZX,Telecommunication Services,6775440000,0.317
+ASX,SPL,Starpharma Holdings,Health Care,587313000,0.028
+ASX,SPO,Spotless Group HLD Limited,Industrials,1532110000,0.072
+ASX,SPQ,Superior Resources,Materials,4816310,0
+ASX,SPX,Spectrum Metals Limited,Materials,3538130,0
+ASX,SPY,SPDR S&P 500 ETF Chess Depositary Interests 1:1 SPDRS&P500,,24545500,0.001
+ASX,SPZ,Smart Parking Limited,Information Technology,68250900,0.003
+ASX,SRF,Surfstitch Group Limited,Consumer Discretionary,18962000,0.001
+ASX,SRH,Saferoads Holdings,Information Technology,10920000,0.001
+ASX,SRI,Sipa Resources Limited,Materials,13206800,0.001
+ASX,SRK,Strike Resources,Materials,7848050,0
+ASX,SRN,Surefire Rescs NL,Materials,4206540,0
+ASX,SRO,Shareroot Limited,Information Technology,5343820,0
+ASX,SRR,Shaw River Manganese,Materials,310722,0
+ASX,SRS,Spicers Limited,Industrials,115189000,0.005
+ASX,SRV,Servcorp Limited,Real Estate,393729000,0.018
+ASX,SRY,Story-I Limited,Consumer Discretionary,10407800,0
+ASX,SRZ,Stellar Resources,Materials,5315990,0
+ASX,SSG,Shaver Shop Group Limited,Consumer Discretionary,54378100,0.003
+ASX,SSL,Sietel Limited,Real Estate,55972300,0.003
+ASX,SSLPA,Sietel Limited 5.0% Cumulative Preference,Financials,75000,0
+ASX,SSM,Service Stream,Industrials,649687000,0.03
+ASX,SSN,Samson Oil & Gas Limited,Energy,3283000,0
+ASX,SSO,SPDR Small Ords ETF Units FP,,23353400,0.001
+ASX,SST,Steamships Trading 50 Toea,Industrials,604661000,0.028
+ASX,ST1,Spirit Telecom Limited,Telecommunication Services,46542400,0.002
+ASX,STA,Strandline Res Limited,Materials,42545300,0.002
+ASX,STC,Sinetech Limited,Information Technology,2823270,0
+ASX,STL,Stargroup Limited,Information Technology,13820700,0.001
+ASX,STM,Sunstone Metals Limited,Materials,35411400,0.002
+ASX,STN,Saturn Metals,Materials,9000000,0
+ASX,STO,Santos Limited,Energy,15121900000,0.708
+ASX,STW,SPDR 200 Fund ETF Units FP,,3623930000,0.17
+ASX,STX,Strike Energy Limited,Energy,151674000,0.007
+ASX,SUD,Suda Pharmaceuticals,Health Care,10327800,0
+ASX,SUH,Southern Hem Min,Materials,5448710,0
+ASX,SUL,Super Ret Rep Limited,Consumer Discretionary,1749520000,0.082
+ASX,SUM,Sumatra Copper&Gold Chess Depositary Interests 1:1,Materials,46591300,0.002
+ASX,SUN,Suncorp Group Limited,Financials,18776400000,0.88
+ASX,SUP,Superior Lake Res,Materials,39416500,0.002
+ASX,SUR,Sun Resources NL,Energy,2269300,0
+ASX,SVA,Simavita Limited Chess Depositary Interests 1:1,Health Care,10378300,0
+ASX,SVH,Silver Heritage Group,Consumer Discretionary,29795100,0.001
+ASX,SVL,Silver Mines Limited,Materials,17093300,0.001
+ASX,SVM,Sovereign Metals,Materials,23536200,0.001
+ASX,SVS,Sunvest Corporation,,2918170,0
+ASX,SVT,Servtech Global Limited,Information Technology,1815980,0
+ASX,SVW,Seven Group Holdings,Industrials,7162060000,0.336
+ASX,SVY,Stavely Minerals Limited,Materials,34123200,0.002
+ASX,SW1,Swift Networks Group,Information Technology,42459500,0.002
+ASX,SWF,Selfwealth,Financials,10838500,0.001
+ASX,SWJ,Stonewall Res Limited,Materials,24091300,0.001
+ASX,SWK,Swick Mining,Materials,53233700,0.002
+ASX,SWM,Seven West Media Limited,Consumer Discretionary,1508030000,0.071
+ASX,SWTZ,Switzrdividendgrowth Trading Managed Fund Units FP,,74333700,0.003
+ASX,SXA,Strata-X Energy Limited Chess Depositary Interests 1:1,Energy,3341470,0
+ASX,SXE,STH CRS Elect ENGNR,Industrials,167358000,0.008
+ASX,SXL,STHN Cross Media,Consumer Discretionary,992028000,0.046
+ASX,SXX,Southern Cross Expl,Materials,8617950,0
+ASX,SXY,SENEX Energy Limited,Energy,724365000,0.034
+ASX,SYA,Sayona Mining Limited,Materials,58328100,0.003
+ASX,SYD,SYD Airport FP Stapled Securities,Industrials,15538500000,0.728
+ASX,SYI,Spdrmsciauselecthdy ETF Units FP,,151003000,0.007
+ASX,SYR,Syrah Resources,Materials,781049000,0.037
+ASX,SYS,SYNGAS Limited,Energy,2445760,0
+ASX,SYT,Syntonic Limited,Information Technology,33314500,0.002
+ASX,T3D,333D Limited,Industrials,2643680,0
+ASX,TAG,TAG Pacific Limited,Financials,6838050,0
+ASX,TAH,Tabcorp Holdings Limited,Consumer Discretionary,9816080000,0.46
+ASX,TAM,Tanami Gold NL,Materials,41128400,0.002
+ASX,TAO,TAO Commodities,Materials,3800000,0
+ASX,TAP,TAP Oil Limited,Energy,39189000,0.002
+ASX,TAR,Taruga Minerals,Materials,10270200,0
+ASX,TAS,Tasman Resources Limited,Materials,19997600,0.001
+ASX,TAU,Trustees Aust Limited,Consumer Discretionary,23226800,0.001
+ASX,TAW,Tawana Resources NL,Materials,190769000,0.009
+ASX,TB8,Tianmei BG Corp Limited,Consumer Staples,15600000,0.001
+ASX,TBH,The Betmakers,Consumer Discretionary,13222200,0.001
+ASX,TBR,Tribune Res Limited,Materials,280517000,0.013
+ASX,TCL,Transurban Group Ordinary Shares/Units FP Triple Stapled,Industrials,29975500000,1.404
+ASX,TCN,Techniche Limited,Financials,8749750,0
+ASX,TCO,Transmetro Corp. Limited,Consumer Discretionary,14453400,0.001
+ASX,TDL,TBG Diagnostics Limited,Health Care,11967300,0.001
+ASX,TDO,3D Oil Limited,Energy,31245500,0.001
+ASX,TECH,Etfsglobaltech ETF Units FP,,74477000,0.003
+ASX,TEG,Triangle Energy Limited,Energy,19848500,0.001
+ASX,TEK,Thorney Tech Limited,,61768500,0.003
+ASX,TER,Terracom Limited,Energy,271761000,0.013
+ASX,TEX,Target Energy,Energy,2578010,0
+ASX,TFG,Total Face Group Limited,Consumer Discretionary,13867200,0.001
+ASX,TFL,Tasfoods Limited,Consumer Staples,29956900,0.001
+ASX,TGA,Thorn Group Limited,Consumer Discretionary,95158100,0.004
+ASX,TGG,Templeton Global,Financials,311808000,0.015
+ASX,TGH,Tegel Group Holdings Foreign Exempt NZX,Consumer Staples,402174000,0.019
+ASX,TGN,Tungsten Min NL,Materials,302490000,0.014
+ASX,TGO,Trimantium Growthops,Information Technology,123283000,0.006
+ASX,TGP,360 Capital Group Stapled Securities FP,Real Estate,220700000,0.01
+ASX,TGR,Tassal Group Limited,Consumer Staples,796915000,0.037
+ASX,TGS,Tiger Resources,Materials,104259000,0.005
+ASX,THC,The Hydropo Co Limited,Health Care,48708400,0.002
+ASX,THD,Thred Limited,Information Technology,5368170,0
+ASX,THR,Thor Mining Plc Chess Depositary Interests 1:1,Materials,3806300,0
+ASX,THX,Thundelarra Limited,Materials,9526440,0
+ASX,TIA,Tian An Aust Limited,Real Estate,54563600,0.003
+ASX,TIE,Tietto Minerals,Materials,8524740,0
+ASX,TIG,Tigers Realm Coal,Materials,84208500,0.004
+ASX,TIN,TNT Mines Limited,Materials,5324070,0
+ASX,TKF,Tikforce Limited,Information Technology,985331,0
+ASX,TKL,Traka Resources,Materials,11927600,0.001
+ASX,TKM,Trek Metals Limited Chess Depositary Interest,Materials,4520180,0
+ASX,TLG,Talga Resources,Materials,101099000,0.005
+ASX,TLM,Talisman Mining,Materials,53853000,0.003
+ASX,TLS,Telstra Corporation,Telecommunication Services,37939600000,1.777
+ASX,TLT,Tilt Renewables Limited Foreign Exempt NZX,Utilities,691670000,0.032
+ASX,TLX,TELIX Pharmaceutical,Health Care,119529000,0.006
+ASX,TME,Trade Me Group Foreign Exempt NZX,Consumer Discretionary,1898030000,0.089
+ASX,TMK,Tamaska Oil Gas Limited,Energy,3920000,0
+ASX,TML,Timah Resources Limited,Utilities,1869630,0
+ASX,TMP,Tech Mpire Limited,Consumer Discretionary,6393430,0
+ASX,TMR,Tempus Resources Limited,Materials,7111000,0
+ASX,TMT,Technology Metals,Materials,20417300,0.001
+ASX,TMX,Terrain Minerals,Materials,3218660,0
+ASX,TMZ,Thomson Res Limited,Materials,3917480,0
+ASX,TNE,Technology One,Information Technology,1767140000,0.083
+ASX,TNG,TNG Limited,Materials,103982000,0.005
+ASX,TNK,Think Childcare Limited,Consumer Discretionary,67836100,0.003
+ASX,TNO,Tando Resources,Materials,23208400,0.001
+ASX,TNP,Triple Energy Limited,Energy,1036740,0
+ASX,TNR,Torian Resources Limited,Materials,8631060,0
+ASX,TNT,Tesserent Limited,Information Technology,8735750,0
+ASX,TNY,Tinybeans Group Limited,Information Technology,4335710,0
+ASX,TOE,Toro Energy Limited,Energy,60516200,0.003
+ASX,TOM,Tomizone Limited,Telecommunication Services,4677210,0
+ASX,TON,Triton Min Limited,Materials,39726500,0.002
+ASX,TOP,Thorney Opp Limited,,147624000,0.007
+ASX,TOT,360 Capital Total Re Stapled Securities,,81329300,0.004
+ASX,TOU,Tlou Energy Limited,Energy,45002500,0.002
+ASX,TPC,TPC Consolidated Limited,Telecommunication Services,11797400,0.001
+ASX,TPD,Talon Petroleum Limited,Energy,4080490,0
+ASX,TPE,Tpi Enterprises,Health Care,121628000,0.006
+ASX,TPM,TPG Telecom Limited,Telecommunication Services,7923510000,0.371
+ASX,TPO,Tian Poh Resources,Materials,34786200,0.002
+ASX,TPP,Tempo Australia,Industrials,48160900,0.002
+ASX,TPS,Threat Protect Limited,,25183500,0.001
+ASX,TPW,Temple & Webster Limited,Consumer Discretionary,127701000,0.006
+ASX,TRA,Turners Automotive Foreign Exempt NZX,Financials,254408000,0.012
+ASX,TRL,Tanga Resources Limited,Materials,4357900,0
+ASX,TRM,Truscott Mining Corp,Materials,1737680,0
+ASX,TRS,The Reject Shop,Consumer Discretionary,137025000,0.006
+ASX,TRT,Todd River Res Limited,Materials,5857960,0
+ASX,TRY,Troy Resources Limited,Materials,45954300,0.002
+ASX,TSC,Twenty Seven Co. Limited,Energy,5352370,0
+ASX,TSL,Titanium Sands Limited,Materials,1048080,0
+ASX,TSN,Transaction Limited,Information Technology,13045200,0.001
+ASX,TTA,TTA Holdings Limited,Consumer Discretionary,2748470,0
+ASX,TTC,Traditional Therapy,Health Care,13767500,0.001
+ASX,TTI,Traffic Technologies,Industrials,16877900,0.001
+ASX,TTL,Transcendence,Information Technology,3126970,0
+ASX,TTM,Titan Minerals,Materials,68777500,0.003
+ASX,TTT,Titomic Limited,Materials,107696000,0.005
+ASX,TTW,Toptung Limited,Materials,7662380,0
+ASX,TV2,TV2U Inter Limited,Information Technology,16266900,0.001
+ASX,TWD,Tamawood Limited,Consumer Discretionary,104212000,0.005
+ASX,TWE,Treasury Wine Estate,Consumer Staples,12569400000,0.589
+ASX,TWR,Tower Limited Foreign Exempt NZX,Financials,239500000,0.011
+ASX,TYK,Tychean Resources,Materials,2308630,0
+ASX,TYX,Tyranna Res Limited,Materials,11207800,0.001
+ASX,TZL,TZ Limited,Information Technology,11642100,0.001
+ASX,TZN,Terramin Australia,Materials,186960000,0.009
+ASX,UBA,Ubs IQ MSCI Aust ETF ETF Units FP,,195642000,0.009
+ASX,UBE,Ubs IQ MSCI Europe ETF Units FP,,11634600,0.001
+ASX,UBI,Universal Biosensors Chess Depositary Interests 1:1,Health Care,42431100,0.002
+ASX,UBJ,Ubs IQ MSCI Japan ETF Units FP,,4844290,0
+ASX,UBN,Urbanise.com Limited,Information Technology,15394100,0.001
+ASX,UBP,Ubs IQ MSCI Asia ETF Units FP,,11054000,0.001
+ASX,UBU,Ubs IQ MSCI Usa ETF Units FP,,7365750,0
+ASX,UBW,Ubs IQ World Ex Aus ETF Units FP,,31600800,0.001
+ASX,UCM,Uscom Limited,Health Care,21275200,0.001
+ASX,UCW,UCW Limited,Consumer Discretionary,20378600,0.001
+ASX,UIL,UIL Energy Limited,Energy,9603140,0
+ASX,UMAX,Beta S&P500 Yieldmax ETF Units FP,,100643000,0.005
+ASX,UNL,United Networks Limited,Telecommunication Services,1031500,0
+ASX,UNV,Universal Coal Plc Chess Depositary Interests 1:1,Energy,164579000,0.008
+ASX,UOS,United Overseas Aust,Real Estate,345321000,0.016
+ASX,UPD,Updater Inc Chess Depositary Interests 25:1 Forus,Information Technology,597513000,0.028
+ASX,URB,URB Investments Limited,,72435000,0.003
+ASX,URF,US Masters Res Fund Ordinary Units FP,Real Estate,578608000,0.027
+ASX,URW,Unibailrodawestfield Chess Depositary Interests 20:1,Real Estate,6183080000,0.29
+ASX,USD,Betashares US Dollar ETF Units FP,,443892000,0.021
+ASX,USR,US Residential Fund Stapled Securities,,9955420,0
+ASX,UTR,Ultracharge Limited,Industrials,12145300,0.001
+ASX,UUL,Ultima Utd Limited,Real Estate,1989050,0
+ASX,UUV,UUV Aquabotix Limited,Industrials,3850000,0
+ASX,VACF,Van Aus Corp Fi ETF ETF Units FP,,142873000,0.007
+ASX,VAE,VGD Ftse Asia Ex JPN ETF Units FP,,109088000,0.005
+ASX,VAF,VNGD Aus Fi ETF Units FP,,710585000,0.033
+ASX,VAH,Virgin Aus HLDG Limited,Industrials,1857950000,0.087
+ASX,VAL,Valor Resources Limited,Materials,10962300,0.001
+ASX,VAN,Vango Mining Limited,Materials,99597500,0.005
+ASX,VAP,VNGD Aus Prop Sec ETF Units FP,,1079330000,0.051
+ASX,VAR,Variscan Mines Limited,Materials,3718340,0
+ASX,VAS,VNGD Aus Shares ETF Units FP,,2929450000,0.137
+ASX,VBND,VNGD GLB Agg Bond ETF Units FP,,25972400,0.001
+ASX,VBS,Vectus Biosystems,Health Care,22211000,0.001
+ASX,VCF,VD Int CRD Sec ETF ETF Units FP,,100208000,0.005
+ASX,VCX,Vicinity Centres Ordinary/Units FP Stapled Securities,Real Estate,10143600000,0.475
+ASX,VDBA,VNGD DIV Balance ETF Units FP,,44637500,0.002
+ASX,VDCO,VNGD DIV Conserv ETF Units FP,,13886300,0.001
+ASX,VDGR,VNGD DIV Growth ETF Units FP,,50631000,0.002
+ASX,VDHG,VNGD DIV High Growth ETF Units FP,,84384600,0.004
+ASX,VEA,Viva Energy Group,Energy,4433540000,0.208
+ASX,VEC,Vector Resources Limited,Materials,38844000,0.002
+ASX,VEE,Veem Limited,Industrials,71500000,0.003
+ASX,VEFI,VNGD Ethi GLB Bond ETF Units FP,,1001800,0
+ASX,VELCP,Vealls Limited Capital,Consumer Discretionary,109858000,0.005
+ASX,VELIN,Vealls Limited Income,Consumer Discretionary,4384350,0
+ASX,VELPA,Vealls Limited 7.0% Cumulative Preference,Consumer Discretionary,121422,0
+ASX,VEN,Vintage Energy,Energy,43590000,0.002
+ASX,VEQ,VGD Ftse Eur Shares ETF Units FP,,215171000,0.01
+ASX,VESG,VNGD Ethi Intl SHS ETF Units FP,,1005400,0
+ASX,VEU,VNGD All-World Ex-US Chess Depositary Interests 1:1,,1333000000,0.062
+ASX,VG1,Vgi Partners Global,,694057000,0.033
+ASX,VGAD,VNGD Intl Shares H ETF Units FP,,447886000,0.021
+ASX,VGB,VNGD Aus GOV Bond ETF Units FP,,140958000,0.007
+ASX,VGE,VNGD Emerging MKTS ETF Units FP,,213849000,0.01
+ASX,VGL,Vista Group Int Limited Foreign Exempt NZX,Information Technology,579376000,0.027
+ASX,VGS,VNGD Intl Shares ETF Units FP,,1254290000,0.059
+ASX,VHT,Volpara Health Tech,Health Care,161241000,0.008
+ASX,VHY,VNGD Aus High Yield ETF Units FP,,1075220000,0.05
+ASX,VIA,Viagold Capital 1c,Consumer Discretionary,97892100,0.005
+ASX,VIC,Victory Mines Limited,Materials,6129580,0
+ASX,VIF,VD Int (Hedged) ETF ETF Units FP,,211791000,0.01
+ASX,VIG,Victor Group Holdings,Information Technology,15586800,0.001
+ASX,VII,Vietnam Industrial,Materials,30589600,0.001
+ASX,VIP,Voltage IP Limited,Industrials,13835200,0.001
+ASX,VIV,Vivid Technology Limited,Industrials,17125900,0.001
+ASX,VKA,Viking Mines Limited,Materials,5960640,0
+ASX,VLC,VNGD Aus Large ETF Units FP,,83840800,0.004
+ASX,VLS,Vita Life Sciences,Health Care,52100100,0.002
+ASX,VLT,Vault Intelligence,Information Technology,46859300,0.002
+ASX,VLW,Villa World Limited,Real Estate,265276000,0.012
+ASX,VMC,Venus Metals Cor Limited,Materials,17000400,0.001
+ASX,VMG,VDM Group Limited,Industrials,11755300,0.001
+ASX,VMIN,VNGD Min Vol ATV ETF Trading Managed Units FP,,2125600,0
+ASX,VML,Vital Metals Limited,Materials,12198300,0.001
+ASX,VMS,Venture Minerals,Materials,13015300,0.001
+ASX,VMT,Vmoto Limited,Consumer Discretionary,10880800,0.001
+ASX,VMX,Valmec Limited,Energy,33018700,0.002
+ASX,VMY,Vimy Resources Limited,Energy,38679400,0.002
+ASX,VN8,VONEX Limited,Telecommunication Services,13782300,0.001
+ASX,VOC,Vocus Group Limited,Telecommunication Services,2040770000,0.096
+ASX,VP7,Velocity Prop GP Limited,Real Estate,4162660,0
+ASX,VPC,Velpic Limited,Information Technology,4523380,0
+ASX,VPR,Volt Power Group,Utilities,16489100,0.001
+ASX,VRC,Volt Resources Limited,Materials,32019900,0.001
+ASX,VRI,Veriluma Limited,Information Technology,2829770,0
+ASX,VRL,Village Roadshow Limited,Consumer Discretionary,480605000,0.023
+ASX,VRM,Verdant Min Limited,Materials,20971500,0.001
+ASX,VRS,Veris Limited,Industrials,74341600,0.003
+ASX,VRT,Virtus Health Limited,Health Care,450184000,0.021
+ASX,VRX,Ventnor Res Limited,Materials,49228200,0.002
+ASX,VSO,VNGD Aus Small ETF Units FP,,209997000,0.01
+ASX,VTG,Vita Group Limited,Consumer Discretionary,163599000,0.008
+ASX,VTH,Vitalharvest Ordinary Units FP,Real Estate,177600000,0.008
+ASX,VTI,Visioneering Technologies Inc Cdi Forus,Health Care,82622200,0.004
+ASX,VTS,VNGD US Total Market Chess Depositary Interests 1:1,,1489980000,0.07
+ASX,VVLU,VNGD Globvlu ATV ETF Trading Managed Units FP,,10282300,0
+ASX,VVR,Viva Energy REIT Stapled Securities,Real Estate,1596650000,0.075
+ASX,VXR,Venturex Resources,Materials,39582900,0.002
+ASX,VYS,Vysarn Limited,Materials,4768000,0
+ASX,WAA,Wam Active Limited,Financials,49943600,0.002
+ASX,WAF,West African Res Limited,Materials,193431000,0.009
+ASX,WAM,WAM Capital Limited,Financials,1657540000,0.078
+ASX,WAT,Waterco Limited,Consumer Discretionary,78054100,0.004
+ASX,WAX,Wam Research Limited,Financials,319349000,0.015
+ASX,WBA,Webster Limited,Consumer Staples,624954000,0.029
+ASX,WBAPA,Webster Limited 9% Cumulative Preference,Consumer Staples,571300,0
+ASX,WBC,Westpac Banking Corp,Financials,95933900000,4.494
+ASX,WBE,Whitebark Energy,Energy,4719440,0
+ASX,WBT,Weebit Nano Limited,Materials,58058700,0.003
+ASX,WCMQ,Wcmqualityglobalgrow Trading Managed Units FP,,45024400,0.002
+ASX,WCN,White Cliff Min Limited,Materials,2232760,0
+ASX,WDE,Wealth Def EQU Limited,,117872000,0.006
+ASX,WDIV,SPDR Global Dividend ETF Units FP,,185715000,0.009
+ASX,WDMF,Ishares Edge WLD MF ETF Units FP,,139575000,0.007
+ASX,WEB,Webjet Limited,Consumer Discretionary,1852850000,0.087
+ASX,WEC,White Energy Company,Energy,26926700,0.001
+ASX,WEL,Winchester Energy,Energy,6558420,0
+ASX,WEMG,SPDR Emerging MKTS ETF Units FP,,19048500,0.001
+ASX,WES,Wesfarmers Limited,Consumer Staples,56521900000,2.648
+ASX,WFE,Winmar Resources Limited,Materials,58150800,0.003
+ASX,WGB,Wam Global Limited,,461305000,0.022
+ASX,WGF,Wmark Global Fund,,71023400,0.003
+ASX,WGL,Wangle Technologies,Information Technology,6233660,0
+ASX,WGN,Wagners HLD Company,Materials,701984000,0.033
+ASX,WGX,Westgold Resources,Materials,461149000,0.022
+ASX,WHA,Wattle Health Au Limited,Consumer Staples,147583000,0.007
+ASX,WHC,Whitehaven Coal,Energy,5581690000,0.261
+ASX,WHF,Whitefield Limited,Financials,412099000,0.019
+ASX,WHFPA,Whitefield Limited 8.0% Cumulative Preference,Financials,23790,0
+ASX,WHK,Whitehawk Limited,Consumer Discretionary,2484540,0
+ASX,WIC,Westoz INV Limited,,153232000,0.007
+ASX,WKT,Walkabout Resources,Materials,40637400,0.002
+ASX,WLC,Wollongong Coal Limited,Materials,56201900,0.003
+ASX,WLD,Wellard Limited,Consumer Staples,37187500,0.002
+ASX,WLE,Wam Leaders Limited,,847360000,0.04
+ASX,WLF,Wolf Minerals,Materials,38180800,0.002
+ASX,WLL,Wellcom Group Limited,Industrials,194869000,0.009
+ASX,WMC,Wonhe Multimedia,Information Technology,3039040,0
+ASX,WMI,Wam Microcap Limited,,207424000,0.01
+ASX,WMK,Watermark Fund Limited,,72693500,0.003
+ASX,WML,Woomera Mining Limited,Materials,3843190,0
+ASX,WND,Windlab Limited,Utilities,104140000,0.005
+ASX,WNR,Wingara AG Limited,Consumer Staples,33108200,0.002
+ASX,WNS,World.Net Services,Information Technology,700583,0
+ASX,WOA,Wide Open Agricultur,Consumer Staples,5779180,0
+ASX,WOF,Wolf Petroleum,Energy,7864680,0
+ASX,WOR,Worleyparsons Limited,Energy,5577210000,0.261
+ASX,WOW,Woolworths Group Limited,Consumer Staples,36878100000,1.728
+ASX,WPG,WPG Res Limited,Materials,13609400,0.001
+ASX,WPL,Woodside Petroleum,Energy,36116700000,1.692
+ASX,WPP,WPP AUNZ Limited,Consumer Discretionary,732851000,0.034
+ASX,WQG,WCM Global Growth,,100689000,0.005
+ASX,WRLD,Beta Managed Risk GL Trading Managed Fund Units FP,,28384600,0.001
+ASX,WRM,White Rock Min Limited,Materials,11455200,0.001
+ASX,WRR,World Reach Limited,Information Technology,7402280,0
+ASX,WSA,Western Areas Limited,Materials,727474000,0.034
+ASX,WSI,Weststar Industrial,Materials,6589630,0
+ASX,WTC,Wisetech Global Limited,Information Technology,6641230000,0.311
+ASX,WTP,Watpac Limited,Industrials,125620000,0.006
+ASX,WVOL,Ishares Edgewld Mvol ETF Units FP,,15590900,0.001
+ASX,WWI,West Wits Mining Limited,Materials,10049900,0
+ASX,WXHG,SPDR World Ex OZ HDG ETF Units FP,,88331500,0.004
+ASX,WXOZ,SPDR World Ex OZ ETF Units FP,,186256000,0.009
+ASX,WZR,Wisr Limited,Financials,27787300,0.001
+ASX,XAM,Xanadu Mines Limited,Materials,84245700,0.004
+ASX,XF1,Xref Limited,Information Technology,94551100,0.004
+ASX,XIP,Xenith IP Group Limited,Industrials,127310000,0.006
+ASX,XPD,XPD Soccer Gear Group,Consumer Discretionary,18685000,0.001
+ASX,XPE,Xped Limited,Information Technology,3013660,0
+ASX,XRF,XRF Scientific,Industrials,22750400,0.001
+ASX,XRO,Xero Limited,Information Technology,6883820000,0.322
+ASX,XST,Xstate Resources,Energy,3917450,0
+ASX,XTD,XTD Limited,Consumer Discretionary,3830500,0
+ASX,XTE,Xtek Limited,Industrials,19366900,0.001
+ASX,XTV,XTV Networks Limited,Consumer Discretionary,9700260,0
+ASX,YALDA,Yancoal Aust Limited Deferred Settlement,,5715120000,0.268
+ASX,YANK,Beta Strong Usd Trading Managed Fund Units FP,,12000000,0.001
+ASX,YBR,Yellow Brick Road,Financials,31070100,0.001
+ASX,YMAX,Betasharesyieldmax Trading Managed Fund Units FP,Consumer Discretionary,370593000,0.017
+ASX,YOJ,Yojee Limited,Information Technology,77117000,0.004
+ASX,YOW,Yowie Group,Consumer Staples,26081300,0.001
+ASX,YPB,YPB Group Limited,Industrials,13562900,0.001
+ASX,Z1P,ZIP Co Limited,Financials,352856000,0.017
+ASX,ZAM,Zamanco Minerals Limited,Materials,4066650,0
+ASX,ZEL,Z Energy Limited Foreign Exempt NZX,Energy,2640000000,0.124
+ASX,ZEN,Zenith Energy Limited,Utilities,67115800,0.003
+ASX,ZER,ZETA Resources Limited,,83318000,0.004
+ASX,ZEU,ZEUS Resources Limited,Energy,2161800,0
+ASX,ZGL,ZICOM Group Limited,Industrials,17805500,0.001
+ASX,ZIM,Zimplats Holding Limited 10c US,Materials,672735000,0.032
+ASX,ZIP,Ziptel Limited,Telecommunication Services,2395740,0
+ASX,ZLD,ZELDA Therapeutics,Health Care,37698700,0.002
+ASX,ZMI,ZINC of Ireland NL,Materials,9728480,0
+ASX,ZNC,Zenith Minerals Limited,Materials,24467600,0.001
+ASX,ZNO,ZOONO Group Limited,Materials,5463240,0
+ASX,ZNT,Zenitas Health Limited,Health Care,104899000,0.005
+ASX,ZOZI,ETFSASX100 ETF Units FP,,9577260,0
+ASX,ZTA,ZETA Petroleum Chess Depositary Interests 1:1,Energy,1958040,0
+ASX,ZUSD,ETFs US Dollar ETF Units FP,,20608200,0.001
+ASX,ZYAU,ETFs ASX300 Yield ETF Units FP,,72146200,0.003
+ASX,ZYB,ZYBER Holdings Limited,Information Technology,5856840,0
+ASX,ZYUS,ETFs S&P500 Yield ETF Units FP,,55582900,0.003

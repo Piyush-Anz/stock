@@ -43,13 +43,33 @@ CREATE TABLE stg_stock_alphavantage (
 );
 
 
+DROP table t_top10_200ASX_IdxWt;
 CREATE TABLE t_top10_200ASX_IdxWt (
 	Exchange varchar(10),
 	Stock  varchar(10),
 	Stock_Name varchar(100),
 	Sector varchar(100),
+	Market_Cap integer,
+	Weight_per numeric,
 	created_dt DATE default CURRENT_DATE
 );
+
+
+drop table t_all_ASX_stock;
+CREATE TABLE t_all_ASX_stock (
+	Exchange varchar(10),
+	Stock  varchar(10),
+	Stock_Name varchar(100),
+	Sector varchar(100),
+	Market_Cap numeric,
+	Weight_per numeric,
+	created_dt DATE default CURRENT_DATE
+);
+
+
+
+
+# COPY t_all_ASX_stock(Exchange,Stock,Stock_Name,Sector,Market_Cap,Weight_per) FROM '/Users/bijwalp/Documents/Personal/Stock/all_stock.csv' DELIMITER ',' CSV HEADER;
 
 
 
