@@ -56,6 +56,21 @@ def fun_query(df_4db):
 			lg.echo_msg('Error in function fun_conndb component Q')
 			return False
 
+def fun_truncate(i_tab_nme):
+		try:
+			i_str='Truncate ' + str(i_tab_nme)
+			conn=postgres_conn()
+			cur=conn.cursor()
+			lg.echo_msg('Executing stmt:::'+i_str)
+			cur.execute(i_str)
+			conn.commit
+			conn.close()
+			return 0
+		except:
+			lg.echo_msg('Error in function fun_truncate component T')
+			return False
+
+
 def fun_execreq(df_4db,i_tab_nme, i_action):
 	### Make the below string as an environment variable
 	if i_action == 'IDF':
@@ -65,6 +80,9 @@ def fun_execreq(df_4db,i_tab_nme, i_action):
 		lg.echo_msg('Inside the function fun_conndb component Q')
 		df=fun_query(df_4db)
 		return df
+	if i_action == 'T':
+		lg.echo_msg('Inside the function fun_truncate component T')
+		df=fun_truncate(i_tab_nme)
 
 
 

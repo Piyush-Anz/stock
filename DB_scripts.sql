@@ -55,6 +55,25 @@ CREATE TABLE t_top10_200ASX_IdxWt (
 );
 
 
+Drop TABLE t_stock_alphavantage;
+CREATE TABLE t_stock_alphavantage (
+	Exchange varchar(10)
+	Stock  varchar(10),
+	timestamp DATE,
+	high numeric,
+	low numeric,
+    daily_range numeric,
+	open numeric,
+	close numeric,
+	prev_close numeric,
+	per_growth numeric,
+	log_return numeric,
+	volume numeric,
+	avg_volume numeric
+);
+
+
+
 drop table t_all_ASX_stock;
 CREATE TABLE t_all_ASX_stock (
 	Exchange varchar(10),
@@ -69,7 +88,7 @@ CREATE TABLE t_all_ASX_stock (
 
 
 
-# COPY t_all_ASX_stock(Exchange,Stock,Stock_Name,Sector,Market_Cap,Weight_per) FROM '/Users/bijwalp/Documents/Personal/Stock/all_stock.csv' DELIMITER ',' CSV HEADER;
+COPY t_all_ASX_stock(Exchange,Stock,Stock_Name,Sector,Market_Cap,Weight_per) FROM '/Users/piyushbijwal/Documents/Project/stock_analysis/MyScripts/stock/all_stock.csv' DELIMITER ',' CSV HEADER;
 
 
 
